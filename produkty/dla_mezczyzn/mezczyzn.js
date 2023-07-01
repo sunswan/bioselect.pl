@@ -13,7 +13,7 @@ class Mezczyzn {
             htmlCatalog += `
                 <li class="products-element product ${type} ${category} ${filter}"> 
                 <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal${id}">
-                    <img class="products-element__img" src="/produkty/product-img/${img}" />
+                    <img class="products-element__img" src="../../produkty/product-img/${img}" />
                     <span class="products-element__name">${name}</span>
                 </a>    
                 </li>
@@ -79,7 +79,7 @@ class Mezczyzn {
                     <div class="close-modal" data-bs-dismiss="modal"><img src="../../assets/image/close-icon.png" alt="Close modal" /></div>
                   <div class="container modal-body row">
                 <div class="col-lg-5 left-images">
-                    <img class="products-element__img" src="/produkty/product-img/${img}" />
+                    <img class="products-element__img" src="../../produkty/product-img/${img}" />
                 </div>
                 <div class="col-lg-7 px-lg-5 right-content">
                   <p class="products-element__name">${name}</p>
