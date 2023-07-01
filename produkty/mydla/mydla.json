@@ -1,0 +1,42 @@
+[
+    {
+     "id": 47,
+     "type": "organic",
+     "category": "mydla",
+     "name": "Mydło organiczne: mięta",
+     "short_description": "z masłem kakaowym i olejkiem miętowym",
+     "sizing": "80 ml",
+     "full_description": "Czyste tradycyjne certyfikowane organiczne mydło w kostce wykonane ze 100% organicznej oliwy z oliwek i pachnące olejkiem eterycznym z mięty pieprzowej. Jego kremowa formuła, wzbogacona o masło Dictamelia &amp; Cocoa, delikatnie oczyszcza, tonizuje i nawilża skórę, pomagając jej zachować naturalne nawilżenie.Odpowiedni dla wszystkich rodzajów skóry.",
+     "img": "47.jpg"
+    },
+    {
+     "id": 48,
+     "type": "organic",
+     "category": "mydla",
+     "name": "Mydło organiczne: wiosenna lawenda",
+     "short_description": "z proszkiem kokosowym i ekstraktem z kawy",
+     "sizing": "80 ml",
+     "full_description": "Mydło ograniczne i certyfikowane, wykonane na bazie w 100% ekologicznej oliwy z oliwek z dodatkiem ekstraktu kawy. Posiada relaksujący aromat olejku eterycznego z lawendy. Wzbogacone jest Dictamelią*, proszkiem kokosowym i płatkami owsianymi, dzięki czemu delikatnie złuszcza, tonizuje mikrokrążenie, poprawia wygląd skóry, nadając jej promienny i jędrny wygląd.",
+     "img": "48.jpg"
+    },
+    {
+     "id": 49,
+     "type": "organic",
+     "category": "mydla",
+     "name": "Mydło organiczne: ylang-ylang",
+     "short_description": "z mirrą i miodem",
+     "sizing": "80 ml",
+     "full_description": "Mydło ograniczne i certyfikowane, wykonane na bazie w 100% ekologicznej oliwy z oliwek, pachnące olejkiem eterycznym Ylang-Ylang. Właściwości Dictamelii, Mirry i miodu nawilżają skórę. Niezwykle bogata i kremowa formuła ułatwia usuwanie martwych komórek naskórka, jednocześnie pomagając zachować elastyczność skóry.",
+     "img": "49.jpg"
+    },
+    {
+     "id": 50,
+     "type": "organic",
+     "category": "mydla",
+     "name": "Mydło organiczne: słodka pomarańcza",
+     "short_description": "z nagietkiem i masłem karite z drzewa masłosza Parka",
+     "sizing": "80 ml",
+     "full_description": "Mydło ograniczne i certyfikowane, wykonane na bazie w 100% ekologicznej oliwy z oliwek, masła kakaowego i mięty. Bogaty skład zawierający Dictamelię*, unikalną mieszankę lebiodki kreteńskiej i oliwę z oliwek, sprawia że skóra jest pozbawiona wszelkich zabrudzeń i zatłuszczeń, stając się nawilżona, jedwabista i gładka w dotyku.",
+     "img": "50.jpg"
+    }
+   ]

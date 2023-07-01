@@ -1,0 +1,46 @@
+[
+    {
+     "id": 43,
+     "type": "organic",
+     "category": "dla_dzieci",
+     "name": "Delikatny balsam do ciała dla dzieci",
+     "short_description": "z Dictamelią , olejkiem nagietkowym i wyciągiem z rumianku",
+     "sizing": "200 ml",
+     "full_description": "Niezwykle delikatny balsam do ciała, spełniający potrzeby delikatnej i wrażliwej skóry dziecka. Zawarte w nim bogate w lipidy i witaminy antyoksydacyjne składniki: Dictamelia*, masło shea* i olejek morelowy, odżywiają i chronią. Łagodzący sok z aloesu*, olej z nagietka* i wyciąg z rumianku* koją skórę i przywracają jej komfort. Doskonała okazja na spędzenie szczęśliwych chwil z dzieckiem.",
+     "img": "43.jpg",
+     "filter": "do_ciala"
+    },
+    {
+     "id": 44,
+     "type": "organic",
+     "category": "dla_dzieci",
+     "name": "Szampon i mleczko dla dzieci pod prysznic",
+     "short_description": "z Dictamelią i Rumiankiem",
+     "sizing": "500 ml",
+     "full_description": "Mleczna formuła ze składnikami o naturalnym pochodzeniu, delikatnie oczyszcająca skórę dziecka, dbając o jej szczególne potrzeby. Dictamelia * , woda rumiankowa* i wyciąg z rumianku* chronią i łagodzą delikatną skórę. Produkt stosowany jako szampon usuwa nadmiar łoju i zanieczyszczenia. Nie powoduje łzawienia, dzięki czemu kąpiel jest przyjemna.",
+     "img": "44.jpg",
+     "filter": "do_ciala"
+    },
+    {
+     "id": 45,
+     "type": "organic",
+     "category": "dla_dzieci",
+     "name": "Olejek relaksujący do masażu dla dzieci",
+     "short_description": "z Dictamelią, Calendulą, olejem z sezamu i pestek moreli",
+     "sizing": "100 ml",
+     "full_description": "Naturalny, jedwabisty w dotyku olejek zapewnia całkowite nawilżenie, miękkość i elastyczność skóry dziecka. Ekstrakt z Dictamelii * i oleju z nagietka*, ukaja i przywraca komfort wrażliwej skórze, a morele*, sezam* oraz olej jojoba, a także bogate w kwasy tłuszczowe omega 3 &amp; 9 witaminy, zapewnią jej ochronę. Lekki zapach olejku wraz z Twoimi delikatnymi gestami zapewni ciepłe poczucie bezpieczeństwa, które pomogą dziecku uspokoić i zrelaksować się przed snem.",
+     "img": "45.jpg",
+     "filter": "do_ciala"
+    },
+    {
+     "id": 46,
+     "type": "organic",
+     "category": "dla_dzieci",
+     "name": "Mleczko do ochrony przed słońcem dla dzieci SPF 30",
+     "short_description": "z Dictamelią, olejem z nagietka oraz z żelem Aloe vera  ",
+     "sizing": "100 ml",
+     "full_description": "Emulsja ochronna spełniająca specjalne potrzeby wrażliwej skóry dziecka w 100% z naturalnego, o szerokim spektrum, fotoprotekcyjnego UVA-UVB . Cenne właściwości Dictamelii* chronią skórę przed formacją wolnych rodników, która uwalnia się obficie przy opalaniu. Ochronę antyoksydacyjną zapewnia olej z nagietka * i sok z aloesu vera*, łagodząc podrażnienia i nawilżając łagodnie skórę dziecka.",
+     "img": "46.jpg",
+     "filter": "do_opalania"
+    }
+   ]

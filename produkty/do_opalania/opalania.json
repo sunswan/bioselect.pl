@@ -1,0 +1,83 @@
+[
+      {
+     "id": 46,
+     "type": "organic",
+     "category": "dla_dzieci",
+     "name": "Mleczko do ochrony przed słońcem dla dzieci SPF 30",
+     "short_description": "z Dictamelią, olejem z nagietka oraz z żelem Aloe vera  ",
+     "sizing": "100 ml",
+     "full_description": "Emulsja ochronna spełniająca specjalne potrzeby wrażliwej skóry dziecka w 100% z naturalnego, o szerokim spektrum, fotoprotekcyjnego UVA-UVB . Cenne właściwości Dictamelii* chronią skórę przed formacją wolnych rodników, która uwalnia się obficie przy opalaniu. Ochronę antyoksydacyjną zapewnia olej z nagietka * i sok z aloesu vera*, łagodząc podrażnienia i nawilżając łagodnie skórę dziecka.",
+     "img": "46.jpg",
+     "filter": "do_opalania"
+    },
+    {
+     "id": 52,
+     "type": "organic",
+     "category": "do_opalania",
+     "name": "Olejek do opalania, niska ochrona spf 6",
+     "short_description": "z Dictamelią, olejem z marchewki i orzecha włoskiego",
+     "sizing": "150 ml",
+     "full_description": "Olejek do opalania o niskiej ochronie SPF 6 został specjalnie stworzony, aby zapewnić Ci intensywną i długotrwałą opaleniznę. Cenne składniki: Dictamelia*, oleje jojoba i orzech włoski stanowią ochronę przed odwodnieniem, a dzięki właściwościom oleju z marchewki, bogatego w pro- witaminę A, naturalna opalenizna utrzymuje się dłużej.",
+     "img": "52.jpg"
+    },
+    {
+     "id": 53,
+     "type": "organic",
+     "category": "do_opalania",
+     "name": "Oliwkowy przeciwsłoneczny krem ochronny prze słońcem do twarzy i ciała - SPF30",
+     "short_description": "z Dictamelią, echinaceą i sokiem z aloesu",
+     "sizing": "150 ml",
+     "full_description": "Krem SPF30 z foto-stabilizatorem, o szerokim spektrum filtrów UVA-UVB dla wysokiej ochrony przed oparzeniami słonecznymi, zapobiegający przedwczesnemu starzeniu. Idealnie nadaje się do twarzy i ciała. Ochronę zapewniają zawarte w nim cenne składniki: Dictamelia* i echinacea które chronią przed wolnymi rodnikami i wzmacniają naturalny system obronny skóry przed uszkodzeniami UV. Sok z aloesu*, bogaty w oligoelementy i aminokwasy, odżywia, łagodzi i zmiękcza skórę.",
+     "img": "53.jpg"
+    },
+    {
+     "id": 54,
+     "type": "organic",
+     "category": "do_opalania",
+     "name": "Olejek do głębokiego opalania extra brązujący",
+     "short_description": "z Dictamelią, olejami z marchewki i orzecha włoskiego",
+     "sizing": "150 ml",
+     "full_description": " Odżywczy olejek do opalania, zawierający Dictamelię*, oferujący skórze całkowitą ochronę antyoksydacyjną. Właściwości naturalnego oleju jojoba i orzecha włoskiego stanowią ochronę skóry przed odwodnieniem, o bogaty w pro-witaminy A olej z marchewki poprawia naturalną opaleniznę.",
+     "img": "54.jpg"
+    },
+    {
+     "id": 55,
+     "type": "organic",
+     "category": "do_opalania",
+     "name": "Sztyft 100% naturalnej ochrony SPF50",
+     "short_description": "z Dictamelią, organicznym woskiem pszczelim i organicznym olejem jojoba",
+     "sizing": "15 ml",
+     "full_description": "Wygodny w użytku sztyft o wysokiej ochronie SPF50 posiadający nie-nano tlenek cynku i olej karanja*, chroniąc Twoją skórę przed promieniami UVA i UVB i przedwczesnym starzeniem skóry spowodowanym przez słońce. Naturalne odżywiające składniki - organiczny wosk pszczeli*, organiczny olej jojoba* i oleje rycynowe* odżywiają, a Dictamelia* posiada działanie chroniące przed wolnymi rodnikami i podrażnieniami.",
+     "img": "55.jpg"
+    },
+    {
+     "id": 56,
+     "type": "organic",
+     "category": "do_opalania",
+     "name": "Żel aloesowy po opalaniu",
+     "short_description": "z Dictamelią, aloesem i nagietkiem",
+     "sizing": "150 ml",
+     "full_description": "Żel do stosowania po opalaniu o działąniu kojącym, antyoksydacyjnym i nawilżającym dzięki właściwościom wyciągu z aloesu*, nagietka* i Dictamelii*, które zapobiegają podrażnieniom i odwodnieniu skóry, łagodząc zaczerwienienia i podrażnienia. Idealny dla wrażliwej skóry twarzy i ciała.",
+     "img": "56.jpg"
+    },
+    {
+     "id": 57,
+     "type": "organic",
+     "category": "do_opalania",
+     "name": "Aloesowe mleczko łagodzące po opalaniu",
+     "short_description": "z Dictamelią, rumiankiem i aloesem",
+     "sizing": "150 ml",
+     "full_description": "Łagodzące mleczko po opalaniu z unikalnym połączeniem wyciągu z aloesu* i rumianku*, które odświeża i łagodzi zaczerwienienia, kojąc podrażnioną skórę po opalaniu. Dictamelia*, olej jojoba* i olej z nagietka*, wykazujące właściwości nawilżające i odżywcze, utrzymują elastyczność skóry i naturalną opaleniznę. Idealne do stosowania dla wszystkich rodzajów skóry.",
+     "img": "57.jpg"
+    },
+    {
+     "id": 58,
+     "type": "organic",
+     "category": "do_opalania",
+     "name": "Oliwkowe mleczko SPF 15 chroniące przed słońcem",
+     "short_description": "z Dictamelią, olejem z awokado i sokiem z aloesuśrednia ochrona spf 15",
+     "sizing": "100 ml",
+     "full_description": "Oliwkowe mleczko do twarzy i ciała o ochronie SPF15. Posiada foto-stabilizator, o szerokim spektrum filtrów UVA-UVB dla średniej ochrony przed oparzeniami słonecznymi i przedwczesnym starzeniem skóry. Dzięki właściwościom Dictamelii*, mleczko zapewnia ochronę przed wolnymi rodnikami i powstawaniem uszkodzeń oksydacyjnych UV. Wyjątkowe właściwości wykazuje olej z awokado*, ekstrakt z nagietka* i sok z aloesu*, które bogate w oligoelementy i aminokwasy, odżywiają, łagodzą i zmiękczają skórę.",
+     "img": "58.jpg"
+    }
+   ]

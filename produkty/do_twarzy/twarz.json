@@ -1,0 +1,347 @@
+[
+    {
+     "id": 18,
+     "type": "organic",
+     "category": "do_twarzy",
+     "name": "Peeling do twarzy dla wszystkich rodzajów cery",
+     "short_description": "peeling do twarzy dla wszystkich rodzajów ceryz Dictamelia*, malwą* i pestkami oliwy",
+     "sizing": "50 ml",
+     "full_description": "Formuła zawiera pestki oliwy usuwające martwe komórki i regulujące poziom sebum oraz oczyszczające pory; Dictamelia*, woda szałwiowa* i wyciąg z malwy* łagodzą i chronią skórę, pozostawiając ją gładką i promienną.",
+     "img": "18.jpg"
+    },
+    {
+     "id": 19,
+     "type": "organic",
+     "category": "do_twarzy",
+     "name": "Płyn do usuwania makijażu",
+     "short_description": "płyn do demakijażu do wszystkich rodzajów skóryz Dictamelia*, olejem balsamicznym i rozmarynem*",
+     "sizing": "75 ml",
+     "full_description": "Łagodne i delikatne mleczko oczyszczające dla wszystkich rodzajów skóry, łatwo usuwające makijaż i zanieczyszczenia ze skóry. Olej balsamiczny*, woda szałwiowa* i Dictamelia* nawilżają, łagodzą i rozluźniają skórę, wyciąg z rozmarynu* zapewnia łagodne działanie antybakteryjne i przeciwutleniające.",
+     "img": "19.jpg"
+    },
+    {
+     "id": 20,
+     "type": "organic",
+     "category": "do_twarzy",
+     "name": "Liftingujący krem do twarzy i szyi",
+     "short_description": "naturalny krem liftingujący do twarzy i szyiz Dictamelia*, hibiskusem* i olejem sezamowym*",
+     "sizing": "50 ml",
+     "full_description": "Krem o natychmiastowym działaniu liftingującym, redukujący zmarszczki i poprawiający wygląd skóry twarzy i szyi. Oligopeptydy z wyciągu z hibiskusa* redukują cienkie linie i zmarszczki poprzez hamowanie degradacji elastyny, w efekcie czego skóra zachowuje optymalną elastyczność. Olej sezamowy*, bogaty w witaminy A i E, odżywia i chroni skórę. Ich działanie hamujące wolne rodniki zapobiega uszkodzeniom oksydacyjnym i zabezpiecza skórę przed przedwczesnym starzeniem się. Dictamelia* łączy w sobie unikalne właściwości oliwy z oliwek i lebiodki kreteńskiej, zapewniając działanie przeciwzapalne, oraz nawilżając i łagodząc skórę.",
+     "img": "20.jpg"
+    },
+    {
+     "id": 21,
+     "type": "organic",
+     "category": "do_twarzy",
+     "name": "Ujędrniające serum do twarzy",
+     "short_description": "ujędrniające serum do twarzy i szyiz Dictamelia*, łubinem białym* i owsem*",
+     "sizing": "200 ml",
+     "full_description": "Wzbogacony w surowicę o działaniu odmładzajacym. Połączenie czynników ujędrniających z hibiskusa*, fasoli Alfa-Alfa*, łubinu* i owsa* aktywuje regenerację komórek i zwiększa syntezę kolagenu i elastyny. Skóra wygląda na ujędrnioną, stonizowaną, a zmarszczki są zredukowane. Dictamelia* i aloes* nawilżają i łagodzą skórę.",
+     "img": "21.jpg"
+    },
+    {
+     "id": 22,
+     "type": "organic",
+     "category": "do_twarzy",
+     "name": "Naturalna pianka do mycia twarzy",
+     "short_description": "z Dictamelia*, zieloną herbatą* i aloesem*",
+     "sizing": "150 ml",
+     "full_description": "Naturalna kompozycja pianki do mycia do głębokiego oczyszczania twarzy. Usuwa makijaż, utrzymując właściwy poziom bariery hydrolipidowej skóry. Dictamelia* pomaga utrzymać naturalne nawilżenie i zapewnia łagodne działanie antyseptyczne. Wyciąg z zielonej herbaty* działa antybakteryjne, natomiast aloes* nawilża. W rezultacie skóra jest czysta i zabezpieczona przed nadmierną utratą wody.",
+     "img": "22.jpg"
+    },
+    {
+     "id": 23,
+     "type": "organic",
+     "category": "do_twarzy",
+     "name": "Kojąca maska do twarzy",
+     "short_description": "Dictamelia*, lukrecją* i aloesem*",
+     "sizing": "100 ml",
+     "full_description": "Zmiękczająca i nawilżająca maseczka dla zmęczonej i pozbawionej blasku skóry. Silnie chłonne właściwości białej glinki łagodnie oczyszczają skórę i usuwają głębokie zanieczyszczenia. Dictamelia*, lukrecja* i aloes* nawilżają, koją i łagodzą skórę, sprawiając, że staje się bardziej promienna i odmłodzona.",
+     "img": "23.jpg"
+    },
+    {
+     "id": 24,
+     "type": "organic",
+     "category": "do_twarzy",
+     "name": "Delikatne mleczko oczyszczające do wszystkich rodzajów skóry",
+     "short_description": "z Dictamelia*, olejem balsamicznym i rozmarynem*",
+     "sizing": "200 ml",
+     "full_description": "Łagodne i delikatne mleczko oczyszczające dla wszystkich rodzajów skóry. Łatwo usuwa makijaż i zanieczyszczenia ze skóry. Olej balsamiczny*, woda szałwiowa* i Dictamelia* nawilżają, łagodzą i rozluźniają skórę, wyciąg z rozmarynu* zapewnia łagodne działanie antyseptyczne i przeciwutleniające.",
+     "img": "24.jpg"
+    },
+    {
+     "id": 25,
+     "type": "organic",
+     "category": "do_twarzy",
+     "name": "Rozświetlający krem pod oczy, usuwający oznaki zmęczenia",
+     "short_description": "rozświetlający i zapobiegający zmęczeniu krem do stosowania wokół oczuz Dictamelia*, merystematycznymi komórkami Echinacea i olejem figi berberyjskiej*",
+     "sizing": "30 ml",
+     "full_description": "Naturalny krem do stosowania wokół oczu zapewniający zdrowy i odświeżony wygląd. Wzbogacony w komórki merystematyczne echinacea i aktywny wyciąg z drożdży, które ujędrniają, stymulują i redukują przekrwienie w okolicach oczu. Kwas hialuronowy zapewnia nawilżenie i wspomaga elastyczność delikatnej skóry, zaś olej figi berberyjskiej* i Dictamelia* zapewniają działanie przeciwutleniające, spowalniając przedwczesne objawy starzenia.",
+     "img": "25.jpg"
+    },
+    {
+     "id": 26,
+     "type": "organic",
+     "category": "do_twarzy",
+     "name": "Przeciwzmarszczkowy krem pod oczy",
+     "short_description": "z Dictamelia*, wyciągiem z paproci i fasolą Alfa-Alfa*",
+     "sizing": "30 ml",
+     "full_description": "Przeciwzmarszczkowy krem nawilżający, idealny dla wrażliwej skóry wokół oczu. Posiada naturalne czynniki ujędrniające cerę, takie jak wyciągi z paproci i fasoli Alfa-Alfa*. Redukuje drobne linie i zmarszczki, a właściwości Dictamelii* nawilżają i łagodzą.",
+     "img": "26.jpg"
+    },
+    {
+     "id": 27,
+     "type": "organic",
+     "category": "do_twarzy",
+     "name": "24-godzinny krem przeciw starzeniu do twarzy",
+     "short_description": "z Dictamelia, mirtem* i owsem*",
+     "sizing": "50 ml",
+     "full_description": "Nawilżający przeciwzmarszczkowy krem zapewniający całkowitą ochronę. Związki fenolowe z mirtem* i cukry z owsa* zapobiegają powstawaniu wolnych rodników, zwiększają elastyczność skóry i redukują zmarszczki i bruzdy. Dictamelia* i cenne składniki słonecznika* gwarantują 24-godzinne nawilżenie i ochronę.",
+     "img": "27.jpg"
+    },
+    {
+     "id": 28,
+     "type": "organic",
+     "category": "do_twarzy",
+     "name": "Balsam z tonikiem do twarzy",
+     "short_description": "z Dictamelia*, hibiskusem* i zieloną herbatą*",
+     "sizing": "200 ml",
+     "full_description": "Delikatny balsam do twarzy, który tonizuje i oczyszcza skórę. Wyciąg z hibiskusa* poprawia elastyczność skóry, natomiast wyciąg z zielonej herbaty* chroni przed uszkodzeniami oksydacyjnymi. Dictamelia* , wyciąg z aloesu* i alantoina łagodzą, zmiękczają i rewitalizują skórę.",
+     "img": "28.jpg"
+    },
+    {
+     "id": 29,
+     "type": "organic",
+     "category": "do_twarzy",
+     "name": "Odżywczy krem przeciwzmarszczkowy na noc",
+     "short_description": "z Dictamelia*, fasolą Alfa-Alfa* i miodem*",
+     "sizing": "50 ml",
+     "full_description": "Odżywczy krem na noc o właściwościach przeciwzmarszczkowych. Wyciąg z fasoli Alfa-Alfa* zwiększa syntezę kolagenu, poprawia elastyczność skóry i zapobiega powstawaniu zmarszczek. Cenne działanie słonecznika* gwarantuje nawilżenie, a Dictamelia*, miód* i wyciąg z aloesu* odżywiają skórę i przywracają jej blask.",
+     "img": "29.jpg"
+    },
+    {
+     "id": 30,
+     "type": "organic",
+     "category": "do_twarzy",
+     "name": "Hydroochronny krem do skóry suchej i wrażliwej",
+     "short_description": "z Dictamelią, rumiankiem i ziarnem słonecznika",
+     "sizing": "50 ml",
+     "full_description": "Bogaty krem o jedwabistej konsystencji, idealny dla utrzymania wilgotności skóry. Dzięki cennemu działaniu słonecznika* i Dictamelii*, skóra jest nawilżona i odżywiona przez 24h. Olejek z rumianku* chroni skórę przed podrażnieniami, a kwas hialuronowy przywraca jej elastyczność.",
+     "img": "30.jpg"
+    },
+    {
+     "id": 31,
+     "type": "organic",
+     "category": "do_twarzy",
+     "name": "Nawilżający krem na dzień do skóry tłustej i mieszanej",
+     "short_description": "z Dictamelią, winogronem i rozmarynem",
+     "sizing": "50 ml",
+     "full_description": "Lekki krem na dzień idealny dla cery tłustej. Jego kluczowe składniki -  Dictamelia* , wyciągi z winogron* i rozmarynu* dostarczają przeciwutleniaczy i gwarantują łagodne właściwości ściągające, a naturalny ryżowy proszek kontroluje wydzielanie sebum, pozostawiając uczucie świeżego i matowego wyglądu.",
+     "img": "31.jpg"
+    },
+    {
+     "id": 32,
+     "type": "organic",
+     "category": "do_twarzy",
+     "name": "Balsam do ust  DICTAMELIA",
+     "short_description": "z Dictamelią",
+     "sizing": "4,4 gr",
+     "full_description": "Sztyft Dictamelia w 100% organicznyStosować odpowiednią ilość ochrony przeciwsłonecznej na pożądane obszary skóry na co najmniej pół godziny przed ekspozycją na słońce. Często reaplikować na dokładnie oczyszczoną skórę, zwłaszcza po kąpieli w basenie, wysiłku fizycznym lub wytarciu ręcznikiem. Unikać kontaktu z oczami.",
+     "img": "32.jpg"
+    },
+    {
+     "id": 33,
+     "type": "organic",
+     "category": "do_twarzy",
+     "name": "Ciasteczkowy balsam do ust",
+     "short_description": "z Dictamelią",
+     "sizing": "4,4 gr",
+     "full_description": "Ciasteczkowy balsam do ust, który spełni potrzeby delikatnej skóry ust.",
+     "img": "33.jpg"
+    },
+    {
+     "id": 34,
+     "type": "organic",
+     "category": "do_twarzy",
+     "name": "Waniliowy balsam do ust",
+     "short_description": "z Dictamelią",
+     "sizing": "4,4 gr",
+     "full_description": "Pielęgnuj i nawilżaj swoje usta naturalnym balsamem o pysznym waniliowym zapachu.",
+     "img": "34.jpg"
+    },
+    {
+     "id": 35,
+     "type": "organic",
+     "category": "do_twarzy",
+     "name": "Czereśniowy balsam do ust",
+     "short_description": "z Dictamelią",
+     "sizing": "4,4 gr",
+     "full_description": "Balsam o słodkim smaku czereśni zapewnia ustom doskonałe samopoczucie i zdrowy wygląd.",
+     "img": "35.jpg"
+    },
+    {
+     "id": 36,
+     "type": "organic",
+     "category": "do_twarzy",
+     "name": "Malinowy balsam do ust",
+     "short_description": "z Dictamelią",
+     "sizing": "4,4 gr",
+     "full_description": "Balsam dla wrażliwych ust o smaku malinowym.",
+     "img": "36.jpg"
+    },
+    {
+     "id": 37,
+     "type": "organic",
+     "category": "dla_mezczyzn",
+     "name": "Krem nawilżający dla mężczyzn",
+     "short_description": "z Dictamelią, wodorostami i wyciągiem z kopru morskiego",
+     "sizing": "50 ml",
+     "full_description": "Lekki, nietłusty krem dla mężczyzn intensywnie nawilżający. Właściwości Dictamelia* łącząc w sobie unikalne właściwości oliwy extra virgin, lebiodki kreteńskiej oraz wody szałwiowej*, zapewniają działanie antyutleniające, jednocześnie nawilżając i kojąc skórę. Kompleks wodorostów zapewnia intensywne i długotrwałe nawilżenie naskórka, a roślina rosnąca w pobliżu Morza Śródziemnego - koper włoski, łagodzi podrażnienia, pozostawiając skórę świeżą i miękką.",
+     "img": "37.jpg",
+     "filter": "do_twarzy"
+    },
+    {
+     "id": 38,
+     "type": "organic",
+     "category": "dla_mezczyzn",
+     "name": "Balsam po goleniu",
+     "short_description": "z Dictamelią, ekstraktem z kaktusa i aloesem",
+     "sizing": "75 ml",
+     "full_description": "Lekki i łatwo wchłanialny balsam po goleniu. Dzięki właściwościom przeciwutleniającym i kojącym organicznej wody szałwiowej*, aloesu*, wyciągu z kaktusa i alantoiny, podrażnienia po goleniu są łagodzone, a skóra staje się gładka i odświeżona. Wyjątkowa formuła z Dictamelii* nawilża skórę, jednocześnie zapewniając łagodne działanie ściągające.",
+     "img": "38.jpg",
+     "filter": "do_twarzy"
+    },
+    {
+     "id": 39,
+     "type": "organic",
+     "category": "dla_mezczyzn",
+     "name": "Łagodna pianka do golenia",
+     "short_description": "z Dictamelią, ekstraktem z kopru morskiego i białkami pszenicy",
+     "sizing": "150 ml",
+     "full_description": "Delikatna pianka do golenia posiadająca specjalnie opracowaną naturalną ekologiczną pompkę do pianki, bez LZO, bez drażniących środków powierzchniowo czynnych. Niezwykle wygodna w użytku, ułatwia sprawne i szybkie golenie, pozostawiając jędrną skórę. Dictamelia* zapewnia niezbędne nawilżenie i łagodne działanie antybakteryjne, a ekstrakt z kopru morskiego, rośliny rosnącej w pobliżu Morza Śródziemnego, łagodzi podrażnienia. Białka pszenicy zwiększają elastyczność skóry, pozostawiając ją jedwabistą w dotyku. Wzbogacona w wodę szałwiową* z właściwościami tonującymi i ochronnymi.",
+     "img": "39.jpg",
+     "filter": "do_twarzy"
+    },
+    {
+     "id": 41,
+     "type": "organic",
+     "category": "SPA",
+     "name": "Oliwkowe spa - regenerujący olejek do masażu twarzy",
+     "short_description": "z Dictamelią, olejem z passiflory i naturalnymi olejkami eterycznymi",
+     "sizing": "30 ml",
+     "full_description": "Olejek do masażu z Dictamelią*, pobudzający krążenie skóry, zapewniając jej połysk i miękkość. Wzbogacony w korzystne dla skóry naturalne oleje z moreli*, jojoba*, migdałowy, hypericum* (olej balsamiczny) i olej z passiflory,  bogaty w wielonasycone kwasy tłuszczowe omega-6, które nawilżają i koją napiętą i zmęczoną skórę twarzy. Witamina E i naturalny wyciąg o natychmiastowych właściwościach liftingujących, zapewnia skórze dodatkową elastyczność i jędrność. Olejki eteryczne Ylang-Ylang**, geranium** i pomarańczowy** pomagają ożywić skórę, jednocześnie zapewniając przyjemne uczucie.",
+     "img": "41.jpg",
+     "filter": "do_twarzy"
+    },
+    {
+     "id": 51,
+     "type": "organic",
+     "category": "dictamelia",
+     "name": "Maść Dictamelia",
+     "short_description": "z Dictamelią i organicznym woskiem pszczelim",
+     "sizing": "15 ml",
+     "full_description": "Krem zainspirowany dawnym kreteńskim środkiem leczniczym w 100% składającym się z lebiodki kreteńskiej i oliwy z oliwek. Wykorzystywany był w starożytności w celu łagodzenia i ochrony skóry przed stanami zapalnymi. Dictamelia* i wosk pszczeli* nawilżają bardzo suche obszary, łagodząc i chroniąc podrażnioną skórę.",
+     "img": "51.jpg",
+     "filter": "do_twarzy"
+    },
+    {
+     "id": 77,
+     "type": "naturals",
+     "category": "do_twarzy",
+     "name": "Konopna pianka do twarzy",
+     "short_description": "Z organiczną oliwą z oliwek, ekstraktem z liści oliwnych i olejem konopnym",
+     "sizing": "100 ml",
+     "full_description": "PIANKA DO OCZYSZCZANIA TWARZY 3 W 1Pianka posiadająca łagodną, naturalną formułę bez SLES - SLS, delikatnie oczyszczająca i usuwająca zanieczyszczenia skóry i makijaż niedrażniącymi środkami, pozostawiając skórę miękką i odświeżoną. Organiczna oliwa z oliwek, ekstrakt z liści oliwnych i olej konopny chronią skórę i zapobiegają podrażnieniom oraz powstawaniu wolnych rodników. SPOSÓB UŻYCIA: Nakładać na wilgotną twarz i szyję, delikatnie masując okrężnymi ruchami, aby usunąć makijaż i zanieczyszczenia. Spłukać wodą.",
+     "img": "77.jpg"
+    },
+    {
+     "id": 78,
+     "type": "naturals",
+     "category": "do_twarzy",
+     "name": "Krem nawilżający",
+     "short_description": "Z organiczną oliwą z oliwek, ekstraktem z liści oliwnych i olejem konopnym",
+     "sizing": "50 ml",
+     "full_description": "KOMPLETNY KREM NAWILŻAJĄCY NA CAŁY DZIEŃZ OCHRONĄ UVKrem na dzień z filtrami UVA-UVB i kwasem hialuronowym. Łatwo się rozprowadza, nie pozostawiając tłustej warstwy. Kwas hialuronowy aktywuje tworzenie kolagenu, wypełnia drobne linie i zapewnia miękką i elastyczną skórę. Organiczna oliwa z oliwek, ekstrakt z liści oliwnych i olej konopny nawilżają, odżywiają i chronią skórę przed powstawaniem wolnych rodników i przedwczesnym starzeniem.SPOSÓB UŻYCIA: Stosować rano na oczyszczoną skórę twarzy, szyi i dekoltu. Delikatnie masować okrężnymi ruchami.",
+     "img": "78.jpg"
+    },
+    {
+     "id": 79,
+     "type": "naturals",
+     "category": "do_twarzy",
+     "name": "Peeling do twarzy HEMP",
+     "short_description": "Z organiczną oliwą z oliwek, ekstraktem z liści oliwnych i olejem konopnym",
+     "sizing": "50 ml",
+     "full_description": "PEELING I MASKA DO TWARZY 2 W 1 Nałożyć na wilgotną skórę i delikatnie masować okrężnymi ruchami. Pozostaw cienką warstwę na skórze jako maskę na 10 minut. Po tym czasie dokładnie spłukać.",
+     "img": "79.jpg"
+    },
+    {
+     "id": 80,
+     "type": "naturals",
+     "category": "do_twarzy",
+     "name": "Age Embrace Cream",
+     "short_description": "Z organiczną oliwą z oliwek, ekstraktem z liści oliwnych i olejem konopnym.Dla każdego rodzaju skóry",
+     "sizing": "50 ml",
+     "full_description": "AGE EMBRACE KREM DO TWARZY I SZYIZ CZYNNIKAMI PRZECIWZMARSZCZKOWYMINaturalny krem ​​do twarzy dla cery dojrzałej. Bogata formuła delikatnie pielęgnuje skórę, pozostawiając ją jedwabiście miękką w dotyku. Zawiera składniki przeciwstarzeniowe z owsa i kwasu hialuronowego, dające natychmiastowy efekt „liftingu” i pozostawiające skórę elastyczną i napiętą. Organiczna oliwa z oliwek, ekstrakt z liści oliwnych i olej konopny nawilżają, odżywiają i zapobiegają powstawaniu wolnych rodników. Zmniejszają i zapobiegają przedwczesnym oznakom starzenia. SPOSÓB UŻYCIA: Stosować codziennie wieczorem i\/lub w ciągu dnia na oczyszczoną skórę twarzy, szyi i dekoltu. Delikatnie masuj okrężnymi ruchami.",
+     "img": "80.jpg"
+    },
+    {
+     "id": 81,
+     "type": "naturals",
+     "category": "do_twarzy",
+     "name": "Serum przeciwzmarszczkowe do twarzy i szyi",
+     "short_description": "Z organiczną oliwą z oliwek, ekstraktem z liści oliwnych i olejem konopnym. Z czynnikami przeciwzmarszczkowymi. Dla każdego rodzaju skóry",
+     "sizing": "30 ml",
+     "full_description": "Serum przeciwzmarszczkowe do twarzy i szyi.Naturalne serum do twarzy. Formuła Α tworzy delikatny jedwabisty welon, który chroni i wzmacnia mechanizmy obronne skóry. Zawarte w nim składniki przeciwstarzeniowe z owsa i kwasu hialuronowego zapewniają natychmiastowy efekt „liftingu”, pozostawiając skórę elastyczną i napiętą. Dzięki cennym właściwościom organicznej oliwy z oliwek, ekstraktu z liści oliwnych i oleju konopnego hamowane jest powstawanie wolnych rodników, a skóra staje się odżywiona i nawilżona. Zmniejszane są przedwczesne oznaki starzenia. SPOSÓB UŻYCIA: Nanieść 2-3 krople na czystą skórę twarzy, szyi i dekoltu, delikatnie masując okrężnymi ruchami. Następnie nałóż krem ​​nawilżający. Nałóż ponownie na krem ​​nawilżający lub makijaż w ciągu dnia, delikatnie wklepując palcami aż do wchłonięcia.",
+     "img": "81.jpg"
+    },
+    {
+     "id": 82,
+     "type": "naturals",
+     "category": "do_twarzy",
+     "name": "Krem pod oczy",
+     "short_description": "Z Dictamelią, komórkami merystematycznymi echinacei i olejem z figi berberysu",
+     "sizing": "30 ml",
+     "full_description": "KREM POD OCZY Z CZYNNIKAMI PRZECIWZMARSZCZKOWYMINaturalny, wielozadaniowy krem ​​pod oczy. Zawarta w nim substancja czynna Helianthus nawilża, uelastycznia i redukuje drobne linie wokół oczu. Ekstrakt z echinacei, organiczna oliwa z oliwek, olej arganowy, masło z awokado, ekstrakt z liści oliwnych i olej konopny łagodzą podrażnienia, wyrównując koloryt skóry wokół oczu i pomagając zwalczać przedwczesne oznaki starzenia.SPOSÓB UŻYCIA: Stosować rano\/wieczorem, niewielką ilość wokół konturu oka. Delikatnie docisnąć palcami aż do wchłonięcia.",
+     "img": "82.jpg"
+    },
+    {
+     "id": 83,
+     "type": "naturals",
+     "category": "do_twarzy",
+     "name": "Matujący krem ​​do twarzy",
+     "short_description": "Z Dictamelią, komórkami merystematycznymi echinacei i olejem z figi berberysu",
+     "sizing": "30 ml",
+     "full_description": "MATOWY KREM DO TWARZYLekki krem ​​o żelowej konsystencji ze składnikami kontrolującymi wydzielanie sebum i nawilżającymi cerę mieszaną i tłustą. Wzbogacony olejkiem z drzewa herbacianego i aktywnym ekstraktem z dzikiej róży, który reguluje wydzielanie sebum, minimalizuje wielkość porów, zapewnia aksamitną konsystencję i matowy wygląd. Kwas hialuronowy aktywuje produkcję kolagenu, nawilża i redukuje drobne zmarszczki, a organiczna oliwa z oliwek chroni przed wolnymi rodnikami i podrażnieniami skóry. SPOSÓB UŻYCIA: Nałożyć na oczyszczoną skórę twarzy, szyi i dekoltu.Może być stosowany również jako baza pod makijaż (podkład), ponieważ zapewnia gładszą skórę i trwałość makijażu.",
+     "img": "83.jpg"
+    },
+    {
+     "id": 84,
+     "type": "naturals",
+     "category": "do_twarzy",
+     "name": "Hialuronowy koktajl do twarzy",
+     "short_description": "Z kwasem hialuronowym LMW, organiczną oliwą z oliwek i ekstraktem z liści oliwnych. Do twarzy, oczu i ust",
+     "sizing": "30 ml",
+     "full_description": "HIALURONOWY BOOSTER +Wzmacniający i wypełniający booster codziennego użytku z kwasem hialuronowym o niskiej i średniej masie cząsteczkowej, zwiększający elastyczność i wzmacniający naturalną barierę skóry. Nawilża i wypełniają drobne zmarszczki wokół twarzy, okolic oczu i ust. Sprawia, że z dnia na dzień Twoja skóra staje się bardziej napięta, wypełniona, nawilżona i promienieje zdrowym blaskiem. SPOSÓB UŻYCIA: Nałożyć 2 krople na skórę po porannym i wieczornym oczyszczeniu. Następnie nałożyć serum lub krem ​​nawilżający. Można jednocześnie stosować z podkładem.",
+     "img": "84.jpg"
+    },
+    {
+     "id": 85,
+     "type": "naturals",
+     "category": "do_twarzy",
+     "name": "Woda micelarna",
+     "short_description": "Z organicznymi ekstraktami z liści oliwnych i rumianku. Dla wszystkich rodzajów skóry – usuwa makijaż i oczyszcza twarz, oczy i usta.",
+     "sizing": "100 ml",
+     "full_description": "OCZYSZCZANIEWODA MICELARNAWoda micelarna o lekkiej konsystencji pozwalająca na łatwe i skuteczne oczyszczanie i demakijaż twarzy i okolic oczu. Wzbogacony organicznymi liśćmi oliwnymi, ekstraktami z rumianku i prowitaminą B5, które zapewniają dodatkową kojącą pielęgnację, ochronę antyoksydacyjną i nawilżenie.SPOSÓB UŻYCIA: Nałożyć na wacik i delikatnie przetrzeć twarz i okolice oczu.",
+     "img": "85.jpg"
+    },
+    {
+     "id": 86,
+     "type": "naturals",
+     "category": "do_twarzy",
+     "name": "Rozświetlająca i zmiękczająca maska ​​do twarzy",
+     "short_description": "Z organiczną oliwą z oliwek, różową glinką i olejkiem Camellia Tsubaki",
+     "sizing": "50 ml",
+     "full_description": "ROZŚWIETLAJĄCA I ZMIĘKCZAJĄCA MASKA DO TWARZYNałożyć na wilgotną skórę i delikatnie masować okrężnymi ruchami. Pozostawić cienką warstwę na skórze przez 5 minut, następnie dokładnie spłukać.",
+     "img": "86.jpg"
+    }
+   ]

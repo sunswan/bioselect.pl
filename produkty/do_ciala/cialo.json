@@ -1,0 +1,400 @@
+[
+    {
+     "id": 1,
+     "type": "organic",
+     "category": "do_ciala",
+     "name": "Krem do rąk o bogatej konsystencji",
+     "short_description": "Z Dictamelią®*, sokiem z aloesu* &amp; masłem shea*",
+     "sizing": "150 ml",
+     "full_description": "Wyjątkowo bogata konsystencja kremu zapewnia intensywną pielęgnację rąk. Dictamelia *, masło shea * oraz olej z nagietka*, odżywiają i chronią skórę przed uszkodzeniami oksydacyjnymi. Kwas hialuronowy i alantoina zwiększają elastyczność skóry oraz pielęgnują suche i spierzchnięte dłonie.",
+     "img": "1.jpg"
+    },
+    {
+     "id": 2,
+     "type": "organic",
+     "category": "do_ciala",
+     "name": "Odżywcze masło do ciała",
+     "short_description": "z Dictamelia*, sokiem z aloesu* i masłem shea*",
+     "sizing": "200 ml",
+     "full_description": "Naturalny krem o konsystencji masła, zapewniający intensywne nawilżenie skóry. Zawiera masło shea, które odżywia i zmiękcza skórę oraz aloes, źródło witamin, minerałów i aminokwasów, zapewniający wyjątkowe działanie kojące i ochronne.",
+     "img": "2.jpg"
+    },
+    {
+     "id": 3,
+     "type": "organic",
+     "category": "do_ciala",
+     "name": "Luksusowy balsam do ciała z białej orchidei",
+     "short_description": "z Dictamelia*, winogronem* i olejem jojoba*",
+     "sizing": "200 ml",
+     "full_description": "Luksusowy balsam do ciała, zawierający unikale połączenie ekstraktów z nagietka, winogron i dziurawca, a także olejek jojoba i masło shea, które odżywiają, łagodzą i zapewniają ochronę przed podrażnieniami. Wzbogacony egzotycznym i lekkim zapachem białych orchidei, który budzi zmysły i nadaje skórze niezwykle aksamitne uczucie.",
+     "img": "3.jpg"
+    },
+    {
+     "id": 4,
+     "type": "organic",
+     "category": "do_ciala",
+     "name": "Nawilżające masło do ciała",
+     "short_description": "z Dictamelia*, miodem* i pestkami oliwek",
+     "sizing": "200 ml",
+     "full_description": "Naturalny krem o konsystencji masła idealny dla suchych i łuszczących się obszarów skóry, takich jak kolana, pięty i łokcie. Dictamelia* chroni przed uszkodzeniami oksydacyjnymi, a masło shea*, bogate w witaminę E, odżywia i zmiękcza skórę. Aloe Vera*, źródło witamin, minerałów i aminokwasów, zapewni Twojej skórze wyjątkowe działanie kojące i ochronne.",
+     "img": "4.jpg"
+    },
+    {
+     "id": 5,
+     "type": "organic",
+     "category": "do_ciala",
+     "name": "Krem do rąk bogata konsystencja ",
+     "short_description": "Oliwkowy krem do rąk - bogata konsystencjaz Dictamelia* i masłem shea*",
+     "sizing": "150 ml",
+     "full_description": "Wyjątkowo bogata konsystencja kremu zapewni całkowitą pielęgnację skóry rąk. Dictamelia* , masło shea* i olej z nagietka* nawilżają, odżywiają i chronią ją przed uszkodzeniami oksydacyjnymi. Kwas hialuronowy i alantoina zwiększają elastyczność skóry i nawilżają spierzchniętą skórę.",
+     "img": "5.jpg"
+    },
+    {
+     "id": 6,
+     "type": "organic",
+     "category": "do_ciala",
+     "name": "Oliwkowy pilingujący żel pod prysznic",
+     "short_description": "oliwkowy peeling pod prysznicz Dictamelia* i masłem shea*",
+     "sizing": "250 ml",
+     "full_description": "Peelingujący żel pod prysznic z pestkami oliwek i ryżu* w naturalny sposób likwiduje martwe komórki skóry, pozostawiając ją odmłodzoną i świeżą. Dzięki unikalnemu połączeniu Dictamelia* , miodu* i wyciągu z aloesu*, skóra w efekcie staje się gładka i promienna.",
+     "img": "6.jpg"
+    },
+    {
+     "id": 7,
+     "type": "organic",
+     "category": "do_ciala",
+     "name": "Relaksujący krem do stóp",
+     "short_description": "relaksujący krem do pielęgnacji stópz Dictamelia*, Ruscus*, olejkami eterycznymi cząbra i mięty pieprzowej**",
+     "sizing": "150 ml",
+     "full_description": "Naturalny krem zapewnia nawilżenie i pielęgnację dla popękanej skóry u stóp. Dictamelia* odżywia i nawilża suchą skórę, a wyciąg z ruscusa* i naturalny olejek eteryczny z mięty pieprzowej** poprawia krążenie, a także odświeża i relaksuje zmęczone nogi. Olejek eteryczny z cząbra zimowego** (kreteński\/ certyfikowana własna uprawa ekologiczna) wykazuje właściwości antybakteryjne i relaksujące.",
+     "img": "7.jpg"
+    },
+    {
+     "id": 8,
+     "type": "organic",
+     "category": "do_ciala",
+     "name": "Rewitalizujący żel pod prysznic",
+     "short_description": "oliwkowy żel pod prysznic\/ rewitalizującyz Dictamelia*, zieloną herbatą* i miętą**",
+     "sizing": "250 ml",
+     "full_description": "Dzięki specjalnej naturalnej formule żel delikatnie, a jednocześnie dokładnie oczyszcza skórę. Dzięki przeciwutleniającym właściwościom Dictamelii* i wyciągu z zielonej herbaty*, skóra staje się stonowana i miękka w dotyku, a towarzyszący jej orzeźwiający zapach olejku z mięty** odżywia zmysły. Łagodny, niezawierający SLES żel jest idealny dla Twojej skóry.",
+     "img": "8.jpg"
+    },
+    {
+     "id": 9,
+     "type": "organic",
+     "category": "do_ciala",
+     "name": "Krem do rąk lekka konsystencja",
+     "short_description": "oliwkowy krem do rąk\/ lekka konsystencjaz Dictamelia* i olejem z nagietka*",
+     "sizing": "150 ml",
+     "full_description": "Krem posiada lekką konsystencję,nawilża i chroni skórę przed czynnikami zewnętrznymi. Dictamelia*  i olej z nagietka* koją skórę, a kwas hialuronowy i alantoina zwiększają jej elastyczność i miękkość. Natychmiast się wchłania, pozostawiając uczucie jedwabistej miękkości bez tłustej warstwy na rękach.",
+     "img": "9.jpg"
+    },
+    {
+     "id": 10,
+     "type": "organic",
+     "category": "do_ciala",
+     "name": "Nawilżający oliwkowy balsam do ciała",
+     "short_description": "oliwkowy nawilżający balsam do ciałaz Dictamelia*, olejem z nagietka* i aloesem*",
+     "sizing": "200 ml",
+     "full_description": "Naturalny balsam do ciała do codziennej pielęgnacji i nawilżenia. Dictamelia* i olejek jojoba* dostarczają lipidy i nawilżają skórę. Wyjątkowe składniki, takie jak: olej z nagietka* i wyciąg z aloesu* koją, tonizują i pielęgnują skórę ciała, pozostawiając ją miękką i zdrową.",
+     "img": "10.jpg"
+    },
+    {
+     "id": 40,
+     "type": "organic",
+     "category": "SPA",
+     "name": "Oliwkowe spa - relaksujący olejek do masażu ciała",
+     "short_description": "z Dictamelią, witaminą E i naturalnymi olejkami eterycznymi",
+     "sizing": "100 ml",
+     "full_description": "Olejek do masażu ciała z Dictamelia*, pobudzający krążenie skóry i zapewniający jej połysk i miękkość. W składzie posiada nawilżającą kompozycję naturalnych i organicznych olejów - oleju ze słodkich migdałów, oleju jojoba*, oleju morelowy* i oleju słonecznikowego. Idealny do stosowania po kąpieli lub prysznicu, gdyż naturalne olejki eteryczne działają relaksująco zapewniając uczucie euforii dla zmęczonej i zestresowanej skóry. Zawarta w nim witamina E chroni skórę przed uszkodzeniami oksydacyjnymi i utrzymuje ją nawilżoną. Olejki eteryczne z lawendy** i pomarańczowy** regenerują i ożywiają skórę, jednocześnie zapewniając przyjemne uczucie.",
+     "img": "40.jpg",
+     "filter": "do_ciala"
+    },
+    {
+     "id": 42,
+     "type": "organic",
+     "category": "SPA",
+     "name": "Naturalny krem do modelowania ciała",
+     "short_description": "z Dictamelią, hibiskusem i wyciągiem z ziaren kawy",
+     "sizing": "150 ml",
+     "full_description": "Naturalny krem do ciała oferujący unikalne działanie modelujące. Wyciąg z ziaren kawy zwalcza cellulit, wyciąg z hibiskusa* przyczynia się do eliminacji efektu skórki pomarańczowej i gwarantuje skórze jędrny i stonowany wygląd. Dictamelia* i masło shea* zapewniają nawilżenie i elastyczność.",
+     "img": "42.jpg",
+     "filter": "do_ciala"
+    },
+    {
+     "id": 43,
+     "type": "organic",
+     "category": "dla_dzieci",
+     "name": "Delikatny balsam do ciała dla dzieci",
+     "short_description": "z Dictamelią , olejkiem nagietkowym i wyciągiem z rumianku",
+     "sizing": "200 ml",
+     "full_description": "Niezwykle delikatny balsam do ciała, spełniający potrzeby delikatnej i wrażliwej skóry dziecka. Zawarte w nim bogate w lipidy i witaminy antyoksydacyjne składniki: Dictamelia*, masło shea* i olejek morelowy, odżywiają i chronią. Łagodzący sok z aloesu*, olej z nagietka* i wyciąg z rumianku* koją skórę i przywracają jej komfort. Doskonała okazja na spędzenie szczęśliwych chwil z dzieckiem.",
+     "img": "43.jpg",
+     "filter": "do_ciala"
+    },
+    {
+     "id": 45,
+     "type": "organic",
+     "category": "dla_dzieci",
+     "name": "Olejek relaksujący do masażu dla dzieci",
+     "short_description": "z Dictamelią, Calendulą, olejem z sezamu i pestek moreli",
+     "sizing": "100 ml",
+     "full_description": "Naturalny, jedwabisty w dotyku olejek zapewnia całkowite nawilżenie, miękkość i elastyczność skóry dziecka. Ekstrakt z Dictamelii * i oleju z nagietka*, ukaja i przywraca komfort wrażliwej skórze, a morele*, sezam* oraz olej jojoba, a także bogate w kwasy tłuszczowe omega 3 &amp; 9 witaminy, zapewnią jej ochronę. Lekki zapach olejku wraz z Twoimi delikatnymi gestami zapewni ciepłe poczucie bezpieczeństwa, które pomogą dziecku uspokoić i zrelaksować się przed snem.",
+     "img": "45.jpg",
+     "filter": "do_ciala"
+    },
+    {
+     "id": 59,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Krem pod prysznic Orient Czar",
+     "short_description": "Z organiczną oliwą z oliwek, bergamotką, różowym pieprzem i ambrą",
+     "sizing": "250 ml",
+     "full_description": "REWITALIZUJĄCY KREM POD PRYSZNICOrzeźwiający krem ​​pod prysznic, nie zawierający SLES-SLS, o łagodnym składzie, delikatnie oczyszczający i chroniący skórę, nasycony zapachem rozbudzającym zmysły. Bogata formuła, zmieszana z olejkiem eterycznym z bergamotki, tonizuje skórę, a organiczny ekstrakt z różowego pieprzu zapewnia ochronę antyoksydacyjną. Ekstrakt z bursztynu dodaje blasku, a organiczna oliwa z oliwek działa nawilżająco i wygładzająco. Przyjemny, odurzający zapach inspirowany Dalekim Wschodem, dostarcza pozytywnych wrażeń i rewitalizacji.SPOSÓB UŻYCIA: Wmasować w wilgotną skórę delikatnymi ruchami do wytworzenia się piany. Dokładnie spłukać.",
+     "img": "59.jpg"
+    },
+    {
+     "id": 60,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Krem pod prysznic Exotic Passion",
+     "short_description": "Z organiczną oliwą z oliwek, makadamią, wanilią i kokosem",
+     "sizing": "250 ml",
+     "full_description": "DELIKATNY KREM POD PRYSZNICDelikatny krem ​​pod prysznic, nie zawierający SLES-SLS, o łagodnym składzie, oczyszczający i chroniący skórę, nasycony zapachem, który koi zmysły. Bogata formuła z naturalnymi olejkami kokosowymi, makadamią i organiczną oliwą z oliwek, nawilża skórę i zapewnia uczucie jedwabistej miękkości. Słodki ekstrakt z wanilii zapewnia ochronę antyoksydacyjną. Wyjątkowy egzotyczny zapach inspirowany lasami Madagaskaru, daje poczucie przyjemności i rewitalizacji.SPOSÓB UŻYCIA: Delikatnymi ruchami wmasować w wilgotną skórę, aż do powstania piany. Dokładnie spłukać.",
+     "img": "60.jpg"
+    },
+    {
+     "id": 61,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Balsam do rąk i ciała Orient Spell",
+     "short_description": "Z organiczną oliwą z oliwek, bergamotką, różowym pieprzem i bursztynem",
+     "sizing": "250 ml",
+     "full_description": "WILGOTNY BALSAM DO RĄK I CIAŁADelikatny balsam do rąk i ciała o jedwabistej konsystencji, łatwo rozprowadzający się i szybko wchłaniający. Bogata formuła, z wyjątkowym połączeniem olejku eterycznego z bergamotki i ekstraktu z różowego pieprzu, zapewnia działanie antyoksydacyjne i kojące. Ekstrakt z bursztynu przywraca blask, a organiczna oliwa z oliwek nawilża i wygładza skórę. Odurzający zapach zainspirowany Dalekim Wschodem, zapewnia wysoką jakość jedwabistej miękkości.SPOSÓB UŻYCIA: Nałożyć na skórę, masować całe ciało okrężnymi ruchami aż do wchłonięcia.",
+     "img": "61.jpg"
+    },
+    {
+     "id": 62,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Balsam do rąk i ciała Exotic Passion",
+     "short_description": "Z organiczną oliwą z oliwek, makadamią, wanilią i kokosem",
+     "sizing": "250 ml",
+     "full_description": "NAWILŻAJĄCY BALSAM DO RĄK I CIAŁADelikatny balsam do rąk i ciała o jedwabistej konsystencji, łatwo rozprowadzający  i szybko wchłaniający się. Bogata formuła z naturalnymi olejami kokosowym, makadamia, migdałowym, organiczną oliwą z oliwek i masłem shea, nawilża skórę, maksymalizuje jej elastyczność i zapewnia uczucie jedwabistej miękkości, a naturalny ekstrakt z wanilii zapewnia ochronę antyoksydacyjną. Wyjątkowy egzotyczny zapach inspirowany lasami Madagaskaru daje poczucie przyjemności i rewitalizacji.SPOSÓB UŻYCIA: Nałożyć na czystą skórę, masować całe ciało okrężnymi ruchami aż do wchłonięcia.",
+     "img": "62.jpg"
+    },
+    {
+     "id": 63,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Sufletowe masło do ciała Orient Czar",
+     "short_description": "Z organiczną oliwą z oliwek, bergamotką, różowym pieprzem i bursztynem",
+     "sizing": "200 ml",
+     "full_description": "SUFFLE MASŁO DO CIAŁA-RĘCE, STOPY I CIAŁO-Miękki krem ​​do ciała o jedwabistej konsystencji, łatwo rozprowadzający się i szybko wchłaniający.Bogata formuła, zawierająca olejek eteryczny z bergamotki i organiczny ekstrakt z różowego pieprzu tonizuje skórę i zapewnia ochronę antyoksydacyjną.Ekstrakt z bursztynu dodaje blasku, a organiczna oliwa z oliwek nawilża i uelastycznia skórę.Odurzający zapach inspirowany Dalekim Wschodem, zapewniający luksusowe poczucie jedwabistej miękkości.SPOSÓB UŻYCIA: Nałożyć na czystą skórę, masować całe ciałookrężnymi ruchami aż do wchłonięcia.",
+     "img": "63.jpg"
+    },
+    {
+     "id": 64,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Sufletowe Masło do Ciała Exotic Passion",
+     "short_description": "Z organiczną oliwą z oliwek, makadamią, wanilią i kokosem",
+     "sizing": "200 ml",
+     "full_description": "SUFFLE MASŁO DO CIAŁA-RĘCE, STOPY I CIAŁO-Miękki krem ​​do ciała o jedwabistej konsystencji, łatwo rozprowadzajacy się i szybko wchłaniający.Bogata formuła zawiera naturalne olejki z kokosa,macadamia i migdałów, organiczną oliwę z oliwek i masło shea, które zapewniają nawilżenie, maksymalizują elastyczność skóry i dają uczucie jedwabistej miękkości. Naturalny ekstrakt z wanilii zapewnia ochronę antyoksydacyjną.Wyjątkowy, egzotyczny zapach inspirowany lasami Madagaskaru zapewnia luksusowe poczucie jedwabistej miękkości.SPOSÓB UŻYCIA: Nałożyć na czystą skórę, masować całe ciałookrężnymi ruchami aż do wchłonięcia.",
+     "img": "64.jpg"
+    },
+    {
+     "id": 65,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Peeling bananowy koktajl mleczny",
+     "short_description": "Z organiczną oliwą z oliwek, zapachem bananów, olejkami kokosowymi i kryształkami cukru",
+     "sizing": "200 ml",
+     "full_description": "PEELING CAŁEGO CIAŁAZŁUSZCZAJ I POLERUJOczyszczający peeling cukrowy o zapachu banana.Jego naturalna formuła wzbogacona jest w kokos, migdały, organiczną oliwę z oliwek i masło shea, niezwykle odżywiające i nawilżające skórę składniki. Zawarte w nim kryształki cukru delikatnie usuwają martwy naskórek, pozostawiając go miękkim i jedwabistym.Idealny do stosowania przed nałożeniem produktów do pielęgnacji ciała,bo dzięki swoim właściwościom przygotowuje skórę do maksymalnego przyjęcia wszystkich dobroczynnych składników.SPOSÓB UŻYCIA: Nakładać na wilgotną skórę okrężnymi ruchami ku górze.Spłukać dużą ilością wody.",
+     "img": "65.jpg"
+    },
+    {
+     "id": 66,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Hair-Body Mist Orient Spell",
+     "short_description": "Z bergamotką, różowym pieprzem i ambrą",
+     "sizing": "100 ml",
+     "full_description": "WŁOSY I CIAŁOMGIEŁKA ZAPACHOWAWyjątkowy orzeźwiający zapach, stymulujący zmysły. Bogaty w naturalny olejek eterycznym z bergamotki, organiczny różowy pieprz i ekstrakt z bursztynu, które pielęgnują włosy i skórę.SPOSÓB UŻYCIA: Spryskać ciało lub włosy i powtarzać w ciągu dnia.",
+     "img": "66.jpg"
+    },
+    {
+     "id": 67,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Mgiełka do włosów i ciała EXOTIC PASSION",
+     "short_description": "Z orzechami makadamia i wanilią",
+     "sizing": "100 ml",
+     "full_description": "WŁOSY I CIAŁOMGIEŁKA ZAPACHOWAWyjątkowy, rewitalizujący zapach, uspokajający Twoje zmysły. W swoim składzie posiada naturalny olejek makadamia i naturalny ekstrakt z wanilii, dbające o włosy i skórę.SPOSÓB UŻYCIA: Spryskać ciało lub włosy i powtórzyć w ciągu dnia.",
+     "img": "67.jpg"
+    },
+    {
+     "id": 68,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Sekretne uwodzenie w kremie pod prysznic",
+     "short_description": "Z organiczną oliwą z oliwek, olejkiem eterycznym z drzewa sandałowego i masłem kakaowym",
+     "sizing": "250 ml",
+     "full_description": "DELIKATNY KREM POD PRYSZNICRewelacyjny krem ​​pod prysznic bez SLES-SLS, z łagodnymi składnikami, które delikatnie oczyszczają i chronią skórę. Nasycony zapachem uwodzącym zmysły. Bogata formuła zawiera olejek eteryczny z drzewa sandałowego, masło kakaowe i organiczną oliwę z oliwek, które nawilżają i zapewniają skórze uczucie jedwabistej miękkości. Luksusowy i rewelacyjny zapach inspirowany orientem, dający poczucie przyjemności i rewitalizacji.SPOSÓB UŻYCIA: Wmasować w wilgotną skórę delikatnymi ruchami do wytworzenia się piany. Dokładnie spłukać.",
+     "img": "68.jpg"
+    },
+    {
+     "id": 69,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Balsam do rąk i ciała Secret Seduction",
+     "short_description": "Z organiczną oliwą z oliwek, olejkiem eterycznym z drzewa sandałowego i masłem kakaowym",
+     "sizing": "250 ml",
+     "full_description": "WILGOTNY BALSAM DO RĄK I CIAŁADelikatny balsam do rąk i ciała o jedwabistej konsystencji, który łatwo się rozprowadza i szybko wchłania. Bogata formuła, zmieszana z olejkiem eterycznym z drzewa sandałowego, tonizuje skórę, podczas gdy masło kakaowe i organiczna oliwa z oliwek odżywiają, nawilżają i zapewniają ochronę antyoksydacyjną. Luksusowy i zmysłowy zapach inspirowany orientem daje poczucie jedwabistej miękkości.SPOSÓB UŻYCIA: Nałożyć na czystą skórę, masować całe ciało okrężnymi ruchami aż do wchłonięcia.",
+     "img": "69.jpg"
+    },
+    {
+     "id": 70,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Peeling do ciała Pina Colada",
+     "short_description": "Z organiczną oliwą z oliwek, olejkiem eterycznym z pomarańczy, monoi de tiare, olejkami kokosowymi i kryształkami cukru",
+     "sizing": "200 ml",
+     "full_description": "PEELING CAŁEGO CIAŁA- ZŁUSZCZANIE I POLEROWANIE -Oczyszczający peeling cukrowyBogata naturalna formuła wzbogacona olejem kokosowym, organiczną oliwą z oliwek, olejkiem eterycznym z pomarańczy i olejkiem monoi de tiare, które odżywiają i nawilżają skórę. Kryształki cukru usuwają martwe komórki naskórka, pozostawiając go miękkim i jedwabistym. Idealny do stosowania przed nałożeniem produktów do pielęgnacji ciała, ponieważ przygotowuje skórę do maksymalnego wchłonięcia wszystkich dobroczynnych składników.SPOSÓB UŻYCIA: Nakładać na wilgotną skórę okrężnymi ruchami ku górze.Spłukać dużą ilością wody.",
+     "img": "70.jpg"
+    },
+    {
+     "id": 71,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Mgiełka do włosów i ciała Pure Lush",
+     "short_description": "Z zapachem Cassis Freesia i wodą kwiatową Roza Damascena",
+     "sizing": "100 ml",
+     "full_description": "WŁOSY I CIAŁOMGIEŁKA ZAPACHOWAElegancki i intensywny zapach, który łączy w sobie zmysłowość i emocje. Wzbogacony wodą kwiatową z róży damasceńskiej, która pielęgnuje włosy i skórę.SPOSÓB UŻYCIA: Spryskać ciało lub włosy i powtórzyć w ciągu dnia.",
+     "img": "71.jpg"
+    },
+    {
+     "id": 72,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Mgiełka do włosów i ciała True Essence",
+     "short_description": "Z białą gardenią i zapachem piżma",
+     "sizing": "100 ml",
+     "full_description": "WŁOSY I CIAŁOMGIEŁKA ZAPACHOWARozkoszny zapach, który łączy w sobie zmysłowość i elegancję. Wzbogacony zapachem białej gardenii i piżma.SPOSÓB UŻYCIA: Spryskać ciało lub włosy i powtórzyć w ciągu dnia.",
+     "img": "72.jpg"
+    },
+    {
+     "id": 73,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Mgiełka do włosów i ciała Dreamy Candy",
+     "short_description": "Z olejkiem ze słodkich migdałów i ekstraktem z wanilii",
+     "sizing": "100 ml",
+     "full_description": "WŁOSY I CIAŁOMGIEŁKA ZAPACHOWAIntensywny, słodki i zmysłowy zapach. Wzbogacony olejkiem ze słodkich migdałów i ekstraktem z wanilii, które zatroszczą się o Twoje włosy i skórę.SPOSÓB UŻYCIA: Spryskać ciało lub włosy i powtarzać w ciągu dnia.",
+     "img": "73.jpg",
+     "filter": "do_wlosow"
+    },
+    {
+     "id": 74,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Sekretna mgiełka do włosów i ciała",
+     "short_description": "Z olejkiem eterycznym z drzewa sandałowego i zapachem kakao",
+     "sizing": "100 ml",
+     "full_description": "WŁOSY I CIAŁOMGIEŁKA ZAPACHOWARewelacyjny zapach, który uwodzi zmysły. Wzbogacony olejkiem eterycznym z drzewa sandałowego, który pielęgnuje włosy i skórę.SPOSÓB UŻYCIA: Spryskać ciało lub włosy i powtarzać w ciągu dnia.",
+     "img": "74.jpg",
+     "filter": "do_wlosow"
+    },
+    {
+     "id": 75,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Rozświetlające Rytuały Mgiełki do Włosów i Ciała",
+     "short_description": "Z olejkami arganowym i kameliowym tsubaki",
+     "sizing": "100 ml",
+     "full_description": "WŁOSY I CIAŁOMGIEŁKA ZAPACHOWAUnikalny egzotyczny zapach, zainspirowany rytuałami piękna Japonek. Wzbogacony olejkiem arganowym i kamelią tsubaki, które posiadają cenne właściwości pielęgnujące włosy i skórę.SPOSÓB UŻYCIA: Spryskać ciało lub włosy i powtarzać w ciągu dnia.",
+     "img": "75.jpg",
+     "filter": "do_wlosow"
+    },
+    {
+     "id": 76,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Mgiełka do włosów i ciała Piña Colada",
+     "short_description": "Z olejkiem eterycznym z pomarańczy, monoi de tiare i olejkami kokosowymi",
+     "sizing": "100 ml",
+     "full_description": "WŁOSY I CIAŁOMGIEŁKA ZAPACHOWALuksusowy, kobiecy i ciepły zapach. Wzbogacony olejkiem eterycznym z pomarańczy, monoi de tiare i olejkami kokosowymi, które zatroszczą się o Twoją skórę i włosy.SPOSÓB UŻYCIA: Spryskać ciało lub włosy i powtarzać w ciągu dnia.",
+     "img": "76.jpg",
+     "filter": "do_wlosow"
+    },
+    {
+     "id": 90,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Krem do rąk i paznokci",
+     "short_description": "Z organiczną oliwą z oliwek, granatem, miodem i imbirem",
+     "sizing": "100 ml",
+     "full_description": "KREM DO RĄK I PAZNOKCIDelikatny, szybko wchłaniający się krem, nie pozostawiający tłustej warstwy, do pielęgnacji dłoni i paznokci. Wzbogacony naturalnym olejem z awokado, olejkiem migdałowym, organiczną oliwą z oliwek i masłem shea, które odżywiają i koją skórę. Wyciągi z granatu i imbiru są silnymi przeciwutleniaczami i zapobiegają przedwczesnemu starzeniu, a miód odżywia skórę. SPOSÓB UŻYCIA: Nałożyć niewielką ilość na dłonie i delikatnie masować, aż do wchłonięcia.",
+     "img": "90.jpg"
+    },
+    {
+     "id": 91,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Krem do stóp",
+     "short_description": "Z organiczną oliwą z oliwek, ruscusem, miętą pieprzową i masłem shea",
+     "sizing": "100 ml",
+     "full_description": "KREM DO STÓP - RELAKSUJĄCY I ORZEŹWIAJĄCYDelikatny, szybko wchłaniający się krem ​​do stóp, nie pozostawiający tłustych śladów. Stanowi idealne remedium dla popękanych pięt i zmęczonej skóry u stóp. Wzbogacony naturalnym olejem migdałowym, olejem z nagietka, organiczną oliwą z oliwek i masłem shea, które nawilżają i koją skórę. Ekstrakt z ruszczyka i naturalny olejek eteryczny z mięty posiadają właściwości tonizujące, działają odświeżająco i relaksująco. SPOSÓB UŻYCIA: Nałożyć odpowiednią ilość na stopy i pięty, delikatnie masując aż do wchłonięcia.",
+     "img": "91.jpg"
+    },
+    {
+     "id": 92,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Lotion cytronelowy",
+     "short_description": "Z organiczną oliwą z oliwek, cytronellą i lawendą",
+     "sizing": "100 ml",
+     "full_description": "NATURALNY BALSAM Z CITRONELLĄDLA DOROSŁYCH I DZIECI Lekka formuła z cytronellą i naturalnymi olejkami eterycznymi z lawendy, eukaliptusa i geranium. Wzbogacony prowitaminą B5 i organiczną oliwą z oliwek, które działają uspokajająco i wygładzająco. idealny dla całej rodziny. Do użytku wewnątrz i na zewnątrz w okresie letnim. SPOSÓB UŻYCIA: Nanieść odpowiednią ilość produktu na odsłoniętą skórę. Aby uzyskać trwalsze rezultaty, zaleca reaplikować co 3-4 godziny. Odpowiedni dla dzieci powyżej 3 roku życia.",
+     "img": "92.jpg"
+    },
+    {
+     "id": 93,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Żel aloesowy",
+     "short_description": "Z organiczną oliwą z oliwek, organicznym aloesem i pantenolem",
+     "sizing": "100 ml",
+     "full_description": "ALOE VERA - WIELOFUNKCYJNY ŻEL ŁAGODZĄCYDLA DOROSŁYCH I DZIECI Odświeżający żel aloesowy o działaniu zmiękczającym, świetnie sprawdzający się do stosowania po ekspozycji na słońce lub po goleniu. Organiczny aloes, pantenol i organiczna oliwa z oliwek nawilżają, łagodzą i chronią przed stresem oksydacyjnym. Idealny dla podrażnionej skóry. SPOSÓB UŻYCIA: Nałożyć na twarz i ciało, delikatnie masując aż do wchłonięcia.",
+     "img": "93.jpg"
+    },
+    {
+     "id": 94,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Krem do rąk i paznokci",
+     "short_description": "Z organiczną oliwą z oliwek, granatem, miodem i imbirem",
+     "sizing": "50 ml",
+     "full_description": "KREM DO RĄK I PAZNOKCISzybko się wchłania, nie pozostawiając tłustych śladów. SPOSÓB UŻYCIA: Nałożyć niewielką ilość na dłonie i delikatnie wmasować, aż do wchłonięcia.",
+     "img": "94.jpg"
+    },
+    {
+     "id": 95,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Dezodorant GRANAT",
+     "short_description": "Z organiczną oliwą z oliwek i ekstraktem z granatu",
+     "sizing": "50 ml",
+     "full_description": "DEZODORANT DO CIAŁAŁagodny dezodorant, wzbogacony organiczną oliwą z oliwek i ekstraktem z granatu. Z naturalnym faktorem dezodorantu, chroniącym przed przykrym zapachem pod pachami przez wiele godzin. SPOSÓB UŻYCIA: Nałożyć cienką warstwę na czystą skórę. Można stosować po goleniu lub depilacji.",
+     "img": "95.jpg"
+    },
+    {
+     "id": 96,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Dezodorant OLEJ KONOPNY",
+     "short_description": "Z organiczną oliwą z oliwek i olejem konopnym",
+     "sizing": "50 ml",
+     "full_description": "DEZODORANT DO CIAŁAŁagodny dezodorant, wzbogacony w organiczną oliwą z oliwek i olej konopny. Posiada naturalny faktor dezodorantu, zapewniający skuteczną ochronę przed potem przez wiele godzin. SPOSÓB UŻYCIA: Nałożyć cienką warstwę na czystą skórę. Można stosować po goleniu lub depilacji.",
+     "img": "96.jpg"
+    }
+   ]

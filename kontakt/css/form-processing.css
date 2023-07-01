@@ -1,0 +1,270 @@
+/* Form */
+
+.form-reverse{
+  flex-direction: column-reverse;
+}
+
+
+.d-none {
+  display: none !important;
+}
+
+label {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+}
+
+input,
+button,
+select,
+optgroup,
+textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+button,
+input {
+  overflow: visible;
+}
+
+button,
+select {
+  text-transform: none;
+}
+
+select {
+  word-wrap: normal;
+}
+
+.form-attach__name {
+  margin-top: auto;
+  max-width: 100%;
+  overflow: hidden;
+  word-wrap: break-word;
+  color: #757575;
+  text-align: center;
+}
+
+.text-sm {
+  font-size: 0.75rem;
+}
+
+.form-check {
+  display: block;
+  min-height: 1.5rem;
+  padding-left: 1.5em;
+}
+
+.custom-control {
+  position: relative;
+  display: block;
+  min-height: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.form-submit {
+  width: 100%;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.g-form {
+  position: relative;
+  height: 600px;
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  padding: 0rem 3rem 0rem 3rem;
+}
+
+.g-form__title {
+  text-align: center;
+  margin: 0;
+  font-weight: 300;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  line-height: 1.5;
+}
+
+.g-form__title a {
+  color: #e8cd96;
+}
+
+.g-form__input-wrapper {
+  margin-bottom: 30px;
+  border: none;
+  padding: 0;
+  width: 100%;
+}
+
+.g-form__input-wrapper textarea {
+  width: 100%;
+  height: 140px;
+  min-height: 120px;
+  max-height: 200px;
+  line-height: 44px;
+  padding: 0px 15px;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 500;
+  color: #aaa;
+  border-radius: 0px;
+  border: 1px solid #7a7a7a;
+  box-shadow: none;
+  resize: vertical;
+}
+
+.g-form__input-wrapper input:focus,
+.g-form__input-wrapper textarea:focus {
+  border: none;
+}
+
+.g-form__input-wrapper_hidden {
+  display: none;
+}
+
+.g-form__button-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.g-form__button {
+  width: 167px;
+  padding: 22px;
+  margin: 1.5rem 0;
+  width: 320px;
+  height: 70px;
+  background: linear-gradient(90deg, #74961f 0%, #74961f 0.01%, #d8e0a7 100%);
+  border-radius: 25px 0px;
+  border: none;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  cursor: pointer;
+}
+
+.g-form__button:hover {
+  color: #fff;
+  transition: all 0.3s;
+}
+
+.g-form__button:not(:disabled):focus {
+  outline: 0;
+}
+
+.contact-us form input {
+  width: 100%;
+  height: 50px;
+  line-height: 44px;
+  padding: 0px 15px;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 500;
+  color: #aaa;
+  border-radius: 0px;
+  border: 1px solid #7a7a7a;
+  box-shadow: none;
+}
+
+.contact-us form input::focus {
+  border-color: #2a2a2a;
+  border-radius: 0px;
+}
+
+.contact-us form textarea {
+  width: 100%;
+  height: 140px;
+  min-height: 120px;
+  max-height: 200px;
+  margin-top: 30px;
+  margin-bottom: 25px;
+  line-height: 44px;
+  padding: 0px 15px;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 500;
+  color: #aaa;
+  border-radius: 0px;
+  border: 1px solid #7a7a7a;
+  box-shadow: none;
+}
+
+.contact-us form textarea::focus {
+  border-color: #2a2a2a;
+  border-radius: 0px;
+}
+
+
+.subscribe form input {
+  width: 100%;
+  height: 50px;
+  line-height: 44px;
+  padding: 0px 15px;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 500;
+  color: #aaa;
+  border-radius: 0px;
+  border: 1px solid #7a7a7a;
+  box-shadow: none;
+}
+
+.subscribe form input::focus {
+  border-color: #2a2a2a;
+  border-radius: 0px;
+}
+
+.subscribe ul li {
+  margin-bottom: 30px;
+  display: block;
+}
+
+.subscribe ul li {
+  font-size: 16px;
+  font-weight: 700;
+  color: #2a2a2a;
+}
+
+.subscribe ul li span,
+.subscribe ul li span a {
+  font-size: 14px;
+  font-weight: 400;
+  color: #aaa;
+}
+
+.subscribe ul li span a:hover {
+  color: #2a2a2a;
+}
+
+@media (min-width: 780px) {
+  .g-form {
+    padding: 10px 30px;
+    margin-top: 45px;
+  }
+  .g-form__input-wrapper textarea {
+    height: 300px;
+    max-height: 350px;
+  }
+
+  .g-form__title {
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .g-form {
+    width: 700px;
+  }
+  .subscribe form input {
+    height: 60px;
+  }
+  .form-reverse{
+    flex-direction: row;
+  }
+}

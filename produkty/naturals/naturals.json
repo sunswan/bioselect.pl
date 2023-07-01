@@ -1,0 +1,386 @@
+[
+    {
+     "id": 59,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Krem pod prysznic Orient Czar",
+     "short_description": "Z organiczną oliwą z oliwek, bergamotką, różowym pieprzem i ambrą",
+     "sizing": "250 ml",
+     "full_description": "REWITALIZUJĄCY KREM POD PRYSZNICOrzeźwiający krem ​​pod prysznic, nie zawierający SLES-SLS, o łagodnym składzie, delikatnie oczyszczający i chroniący skórę, nasycony zapachem rozbudzającym zmysły. Bogata formuła, zmieszana z olejkiem eterycznym z bergamotki, tonizuje skórę, a organiczny ekstrakt z różowego pieprzu zapewnia ochronę antyoksydacyjną. Ekstrakt z bursztynu dodaje blasku, a organiczna oliwa z oliwek działa nawilżająco i wygładzająco. Przyjemny, odurzający zapach inspirowany Dalekim Wschodem, dostarcza pozytywnych wrażeń i rewitalizacji.SPOSÓB UŻYCIA: Wmasować w wilgotną skórę delikatnymi ruchami do wytworzenia się piany. Dokładnie spłukać.",
+     "img": "59.jpg"
+    },
+    {
+     "id": 60,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Krem pod prysznic Exotic Passion",
+     "short_description": "Z organiczną oliwą z oliwek, makadamią, wanilią i kokosem",
+     "sizing": "250 ml",
+     "full_description": "DELIKATNY KREM POD PRYSZNICDelikatny krem ​​pod prysznic, nie zawierający SLES-SLS, o łagodnym składzie, oczyszczający i chroniący skórę, nasycony zapachem, który koi zmysły. Bogata formuła z naturalnymi olejkami kokosowymi, makadamią i organiczną oliwą z oliwek, nawilża skórę i zapewnia uczucie jedwabistej miękkości. Słodki ekstrakt z wanilii zapewnia ochronę antyoksydacyjną. Wyjątkowy egzotyczny zapach inspirowany lasami Madagaskaru, daje poczucie przyjemności i rewitalizacji.SPOSÓB UŻYCIA: Delikatnymi ruchami wmasować w wilgotną skórę, aż do powstania piany. Dokładnie spłukać.",
+     "img": "60.jpg"
+    },
+    {
+     "id": 61,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Balsam do rąk i ciała Orient Spell",
+     "short_description": "Z organiczną oliwą z oliwek, bergamotką, różowym pieprzem i bursztynem",
+     "sizing": "250 ml",
+     "full_description": "WILGOTNY BALSAM DO RĄK I CIAŁADelikatny balsam do rąk i ciała o jedwabistej konsystencji, łatwo rozprowadzający się i szybko wchłaniający. Bogata formuła, z wyjątkowym połączeniem olejku eterycznego z bergamotki i ekstraktu z różowego pieprzu, zapewnia działanie antyoksydacyjne i kojące. Ekstrakt z bursztynu przywraca blask, a organiczna oliwa z oliwek nawilża i wygładza skórę. Odurzający zapach zainspirowany Dalekim Wschodem, zapewnia wysoką jakość jedwabistej miękkości.SPOSÓB UŻYCIA: Nałożyć na skórę, masować całe ciało okrężnymi ruchami aż do wchłonięcia.",
+     "img": "61.jpg"
+    },
+    {
+     "id": 62,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Balsam do rąk i ciała Exotic Passion",
+     "short_description": "Z organiczną oliwą z oliwek, makadamią, wanilią i kokosem",
+     "sizing": "250 ml",
+     "full_description": "NAWILŻAJĄCY BALSAM DO RĄK I CIAŁADelikatny balsam do rąk i ciała o jedwabistej konsystencji, łatwo rozprowadzający  i szybko wchłaniający się. Bogata formuła z naturalnymi olejami kokosowym, makadamia, migdałowym, organiczną oliwą z oliwek i masłem shea, nawilża skórę, maksymalizuje jej elastyczność i zapewnia uczucie jedwabistej miękkości, a naturalny ekstrakt z wanilii zapewnia ochronę antyoksydacyjną. Wyjątkowy egzotyczny zapach inspirowany lasami Madagaskaru daje poczucie przyjemności i rewitalizacji.SPOSÓB UŻYCIA: Nałożyć na czystą skórę, masować całe ciało okrężnymi ruchami aż do wchłonięcia.",
+     "img": "62.jpg"
+    },
+    {
+     "id": 63,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Sufletowe masło do ciała Orient Czar",
+     "short_description": "Z organiczną oliwą z oliwek, bergamotką, różowym pieprzem i bursztynem",
+     "sizing": "200 ml",
+     "full_description": "SUFFLE MASŁO DO CIAŁA-RĘCE, STOPY I CIAŁO-Miękki krem ​​do ciała o jedwabistej konsystencji, łatwo rozprowadzający się i szybko wchłaniający.Bogata formuła, zawierająca olejek eteryczny z bergamotki i organiczny ekstrakt z różowego pieprzu tonizuje skórę i zapewnia ochronę antyoksydacyjną.Ekstrakt z bursztynu dodaje blasku, a organiczna oliwa z oliwek nawilża i uelastycznia skórę.Odurzający zapach inspirowany Dalekim Wschodem, zapewniający luksusowe poczucie jedwabistej miękkości.SPOSÓB UŻYCIA: Nałożyć na czystą skórę, masować całe ciałookrężnymi ruchami aż do wchłonięcia.",
+     "img": "63.jpg"
+    },
+    {
+     "id": 64,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Sufletowe Masło do Ciała Exotic Passion",
+     "short_description": "Z organiczną oliwą z oliwek, makadamią, wanilią i kokosem",
+     "sizing": "200 ml",
+     "full_description": "SUFFLE MASŁO DO CIAŁA-RĘCE, STOPY I CIAŁO-Miękki krem ​​do ciała o jedwabistej konsystencji, łatwo rozprowadzajacy się i szybko wchłaniający.Bogata formuła zawiera naturalne olejki z kokosa,macadamia i migdałów, organiczną oliwę z oliwek i masło shea, które zapewniają nawilżenie, maksymalizują elastyczność skóry i dają uczucie jedwabistej miękkości. Naturalny ekstrakt z wanilii zapewnia ochronę antyoksydacyjną.Wyjątkowy, egzotyczny zapach inspirowany lasami Madagaskaru zapewnia luksusowe poczucie jedwabistej miękkości.SPOSÓB UŻYCIA: Nałożyć na czystą skórę, masować całe ciałookrężnymi ruchami aż do wchłonięcia.",
+     "img": "64.jpg"
+    },
+    {
+     "id": 65,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Peeling bananowy koktajl mleczny",
+     "short_description": "Z organiczną oliwą z oliwek, zapachem bananów, olejkami kokosowymi i kryształkami cukru",
+     "sizing": "200 ml",
+     "full_description": "PEELING CAŁEGO CIAŁAZŁUSZCZAJ I POLERUJOczyszczający peeling cukrowy o zapachu banana.Jego naturalna formuła wzbogacona jest w kokos, migdały, organiczną oliwę z oliwek i masło shea, niezwykle odżywiające i nawilżające skórę składniki. Zawarte w nim kryształki cukru delikatnie usuwają martwy naskórek, pozostawiając go miękkim i jedwabistym.Idealny do stosowania przed nałożeniem produktów do pielęgnacji ciała,bo dzięki swoim właściwościom przygotowuje skórę do maksymalnego przyjęcia wszystkich dobroczynnych składników.SPOSÓB UŻYCIA: Nakładać na wilgotną skórę okrężnymi ruchami ku górze.Spłukać dużą ilością wody.",
+     "img": "65.jpg"
+    },
+    {
+     "id": 66,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Hair-Body Mist Orient Spell",
+     "short_description": "Z bergamotką, różowym pieprzem i ambrą",
+     "sizing": "100 ml",
+     "full_description": "WŁOSY I CIAŁOMGIEŁKA ZAPACHOWAWyjątkowy orzeźwiający zapach, stymulujący zmysły. Bogaty w naturalny olejek eterycznym z bergamotki, organiczny różowy pieprz i ekstrakt z bursztynu, które pielęgnują włosy i skórę.SPOSÓB UŻYCIA: Spryskać ciało lub włosy i powtarzać w ciągu dnia.",
+     "img": "66.jpg"
+    },
+    {
+     "id": 67,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Mgiełka do włosów i ciała EXOTIC PASSION",
+     "short_description": "Z orzechami makadamia i wanilią",
+     "sizing": "100 ml",
+     "full_description": "WŁOSY I CIAŁOMGIEŁKA ZAPACHOWAWyjątkowy, rewitalizujący zapach, uspokajający Twoje zmysły. W swoim składzie posiada naturalny olejek makadamia i naturalny ekstrakt z wanilii, dbające o włosy i skórę.SPOSÓB UŻYCIA: Spryskać ciało lub włosy i powtórzyć w ciągu dnia.",
+     "img": "67.jpg"
+    },
+    {
+     "id": 68,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Sekretne uwodzenie w kremie pod prysznic",
+     "short_description": "Z organiczną oliwą z oliwek, olejkiem eterycznym z drzewa sandałowego i masłem kakaowym",
+     "sizing": "250 ml",
+     "full_description": "DELIKATNY KREM POD PRYSZNICRewelacyjny krem ​​pod prysznic bez SLES-SLS, z łagodnymi składnikami, które delikatnie oczyszczają i chronią skórę. Nasycony zapachem uwodzącym zmysły. Bogata formuła zawiera olejek eteryczny z drzewa sandałowego, masło kakaowe i organiczną oliwę z oliwek, które nawilżają i zapewniają skórze uczucie jedwabistej miękkości. Luksusowy i rewelacyjny zapach inspirowany orientem, dający poczucie przyjemności i rewitalizacji.SPOSÓB UŻYCIA: Wmasować w wilgotną skórę delikatnymi ruchami do wytworzenia się piany. Dokładnie spłukać.",
+     "img": "68.jpg"
+    },
+    {
+     "id": 69,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Balsam do rąk i ciała Secret Seduction",
+     "short_description": "Z organiczną oliwą z oliwek, olejkiem eterycznym z drzewa sandałowego i masłem kakaowym",
+     "sizing": "250 ml",
+     "full_description": "WILGOTNY BALSAM DO RĄK I CIAŁADelikatny balsam do rąk i ciała o jedwabistej konsystencji, który łatwo się rozprowadza i szybko wchłania. Bogata formuła, zmieszana z olejkiem eterycznym z drzewa sandałowego, tonizuje skórę, podczas gdy masło kakaowe i organiczna oliwa z oliwek odżywiają, nawilżają i zapewniają ochronę antyoksydacyjną. Luksusowy i zmysłowy zapach inspirowany orientem daje poczucie jedwabistej miękkości.SPOSÓB UŻYCIA: Nałożyć na czystą skórę, masować całe ciało okrężnymi ruchami aż do wchłonięcia.",
+     "img": "69.jpg"
+    },
+    {
+     "id": 70,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Peeling do ciała Pina Colada",
+     "short_description": "Z organiczną oliwą z oliwek, olejkiem eterycznym z pomarańczy, monoi de tiare, olejkami kokosowymi i kryształkami cukru",
+     "sizing": "200 ml",
+     "full_description": "PEELING CAŁEGO CIAŁA- ZŁUSZCZANIE I POLEROWANIE -Oczyszczający peeling cukrowyBogata naturalna formuła wzbogacona olejem kokosowym, organiczną oliwą z oliwek, olejkiem eterycznym z pomarańczy i olejkiem monoi de tiare, które odżywiają i nawilżają skórę. Kryształki cukru usuwają martwe komórki naskórka, pozostawiając go miękkim i jedwabistym. Idealny do stosowania przed nałożeniem produktów do pielęgnacji ciała, ponieważ przygotowuje skórę do maksymalnego wchłonięcia wszystkich dobroczynnych składników.SPOSÓB UŻYCIA: Nakładać na wilgotną skórę okrężnymi ruchami ku górze.Spłukać dużą ilością wody.",
+     "img": "70.jpg"
+    },
+    {
+     "id": 71,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Mgiełka do włosów i ciała Pure Lush",
+     "short_description": "Z zapachem Cassis Freesia i wodą kwiatową Roza Damascena",
+     "sizing": "100 ml",
+     "full_description": "WŁOSY I CIAŁOMGIEŁKA ZAPACHOWAElegancki i intensywny zapach, który łączy w sobie zmysłowość i emocje. Wzbogacony wodą kwiatową z róży damasceńskiej, która pielęgnuje włosy i skórę.SPOSÓB UŻYCIA: Spryskać ciało lub włosy i powtórzyć w ciągu dnia.",
+     "img": "71.jpg"
+    },
+    {
+     "id": 72,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Mgiełka do włosów i ciała True Essence",
+     "short_description": "Z białą gardenią i zapachem piżma",
+     "sizing": "100 ml",
+     "full_description": "WŁOSY I CIAŁOMGIEŁKA ZAPACHOWARozkoszny zapach, który łączy w sobie zmysłowość i elegancję. Wzbogacony zapachem białej gardenii i piżma.SPOSÓB UŻYCIA: Spryskać ciało lub włosy i powtórzyć w ciągu dnia.",
+     "img": "72.jpg"
+    },
+    {
+     "id": 73,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Mgiełka do włosów i ciała Dreamy Candy",
+     "short_description": "Z olejkiem ze słodkich migdałów i ekstraktem z wanilii",
+     "sizing": "100 ml",
+     "full_description": "WŁOSY I CIAŁOMGIEŁKA ZAPACHOWAIntensywny, słodki i zmysłowy zapach. Wzbogacony olejkiem ze słodkich migdałów i ekstraktem z wanilii, które zatroszczą się o Twoje włosy i skórę.SPOSÓB UŻYCIA: Spryskać ciało lub włosy i powtarzać w ciągu dnia.",
+     "img": "73.jpg",
+     "filter": "do_wlosow"
+    },
+    {
+     "id": 74,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Sekretna mgiełka do włosów i ciała",
+     "short_description": "Z olejkiem eterycznym z drzewa sandałowego i zapachem kakao",
+     "sizing": "100 ml",
+     "full_description": "WŁOSY I CIAŁOMGIEŁKA ZAPACHOWARewelacyjny zapach, który uwodzi zmysły. Wzbogacony olejkiem eterycznym z drzewa sandałowego, który pielęgnuje włosy i skórę.SPOSÓB UŻYCIA: Spryskać ciało lub włosy i powtarzać w ciągu dnia.",
+     "img": "74.jpg",
+     "filter": "do_wlosow"
+    },
+    {
+     "id": 75,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Rozświetlające Rytuały Mgiełki do Włosów i Ciała",
+     "short_description": "Z olejkami arganowym i kameliowym tsubaki",
+     "sizing": "100 ml",
+     "full_description": "WŁOSY I CIAŁOMGIEŁKA ZAPACHOWAUnikalny egzotyczny zapach, zainspirowany rytuałami piękna Japonek. Wzbogacony olejkiem arganowym i kamelią tsubaki, które posiadają cenne właściwości pielęgnujące włosy i skórę.SPOSÓB UŻYCIA: Spryskać ciało lub włosy i powtarzać w ciągu dnia.",
+     "img": "75.jpg",
+     "filter": "do_wlosow"
+    },
+    {
+     "id": 76,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Mgiełka do włosów i ciała Piña Colada",
+     "short_description": "Z olejkiem eterycznym z pomarańczy, monoi de tiare i olejkami kokosowymi",
+     "sizing": "100 ml",
+     "full_description": "WŁOSY I CIAŁOMGIEŁKA ZAPACHOWALuksusowy, kobiecy i ciepły zapach. Wzbogacony olejkiem eterycznym z pomarańczy, monoi de tiare i olejkami kokosowymi, które zatroszczą się o Twoją skórę i włosy.SPOSÓB UŻYCIA: Spryskać ciało lub włosy i powtarzać w ciągu dnia.",
+     "img": "76.jpg",
+     "filter": "do_wlosow"
+    },
+    {
+     "id": 77,
+     "type": "naturals",
+     "category": "do_twarzy",
+     "name": "Konopna pianka do twarzy",
+     "short_description": "Z organiczną oliwą z oliwek, ekstraktem z liści oliwnych i olejem konopnym",
+     "sizing": "100 ml",
+     "full_description": "PIANKA DO OCZYSZCZANIA TWARZY 3 W 1Pianka posiadająca łagodną, naturalną formułę bez SLES - SLS, delikatnie oczyszczająca i usuwająca zanieczyszczenia skóry i makijaż niedrażniącymi środkami, pozostawiając skórę miękką i odświeżoną. Organiczna oliwa z oliwek, ekstrakt z liści oliwnych i olej konopny chronią skórę i zapobiegają podrażnieniom oraz powstawaniu wolnych rodników. SPOSÓB UŻYCIA: Nakładać na wilgotną twarz i szyję, delikatnie masując okrężnymi ruchami, aby usunąć makijaż i zanieczyszczenia. Spłukać wodą.",
+     "img": "77.jpg"
+    },
+    {
+     "id": 78,
+     "type": "naturals",
+     "category": "do_twarzy",
+     "name": "Krem nawilżający",
+     "short_description": "Z organiczną oliwą z oliwek, ekstraktem z liści oliwnych i olejem konopnym",
+     "sizing": "50 ml",
+     "full_description": "KOMPLETNY KREM NAWILŻAJĄCY NA CAŁY DZIEŃZ OCHRONĄ UVKrem na dzień z filtrami UVA-UVB i kwasem hialuronowym. Łatwo się rozprowadza, nie pozostawiając tłustej warstwy. Kwas hialuronowy aktywuje tworzenie kolagenu, wypełnia drobne linie i zapewnia miękką i elastyczną skórę. Organiczna oliwa z oliwek, ekstrakt z liści oliwnych i olej konopny nawilżają, odżywiają i chronią skórę przed powstawaniem wolnych rodników i przedwczesnym starzeniem.SPOSÓB UŻYCIA: Stosować rano na oczyszczoną skórę twarzy, szyi i dekoltu. Delikatnie masować okrężnymi ruchami.",
+     "img": "78.jpg"
+    },
+    {
+     "id": 79,
+     "type": "naturals",
+     "category": "do_twarzy",
+     "name": "Peeling do twarzy HEMP",
+     "short_description": "Z organiczną oliwą z oliwek, ekstraktem z liści oliwnych i olejem konopnym",
+     "sizing": "50 ml",
+     "full_description": "PEELING I MASKA DO TWARZY 2 W 1 Nałożyć na wilgotną skórę i delikatnie masować okrężnymi ruchami. Pozostaw cienką warstwę na skórze jako maskę na 10 minut. Po tym czasie dokładnie spłukać.",
+     "img": "79.jpg"
+    },
+    {
+     "id": 80,
+     "type": "naturals",
+     "category": "do_twarzy",
+     "name": "Age Embrace Cream",
+     "short_description": "Z organiczną oliwą z oliwek, ekstraktem z liści oliwnych i olejem konopnym.Dla każdego rodzaju skóry",
+     "sizing": "50 ml",
+     "full_description": "AGE EMBRACE KREM DO TWARZY I SZYIZ CZYNNIKAMI PRZECIWZMARSZCZKOWYMINaturalny krem ​​do twarzy dla cery dojrzałej. Bogata formuła delikatnie pielęgnuje skórę, pozostawiając ją jedwabiście miękką w dotyku. Zawiera składniki przeciwstarzeniowe z owsa i kwasu hialuronowego, dające natychmiastowy efekt „liftingu” i pozostawiające skórę elastyczną i napiętą. Organiczna oliwa z oliwek, ekstrakt z liści oliwnych i olej konopny nawilżają, odżywiają i zapobiegają powstawaniu wolnych rodników. Zmniejszają i zapobiegają przedwczesnym oznakom starzenia. SPOSÓB UŻYCIA: Stosować codziennie wieczorem i\/lub w ciągu dnia na oczyszczoną skórę twarzy, szyi i dekoltu. Delikatnie masuj okrężnymi ruchami.",
+     "img": "80.jpg"
+    },
+    {
+     "id": 81,
+     "type": "naturals",
+     "category": "do_twarzy",
+     "name": "Serum przeciwzmarszczkowe do twarzy i szyi",
+     "short_description": "Z organiczną oliwą z oliwek, ekstraktem z liści oliwnych i olejem konopnym. Z czynnikami przeciwzmarszczkowymi. Dla każdego rodzaju skóry",
+     "sizing": "30 ml",
+     "full_description": "Serum przeciwzmarszczkowe do twarzy i szyi.Naturalne serum do twarzy. Formuła Α tworzy delikatny jedwabisty welon, który chroni i wzmacnia mechanizmy obronne skóry. Zawarte w nim składniki przeciwstarzeniowe z owsa i kwasu hialuronowego zapewniają natychmiastowy efekt „liftingu”, pozostawiając skórę elastyczną i napiętą. Dzięki cennym właściwościom organicznej oliwy z oliwek, ekstraktu z liści oliwnych i oleju konopnego hamowane jest powstawanie wolnych rodników, a skóra staje się odżywiona i nawilżona. Zmniejszane są przedwczesne oznaki starzenia. SPOSÓB UŻYCIA: Nanieść 2-3 krople na czystą skórę twarzy, szyi i dekoltu, delikatnie masując okrężnymi ruchami. Następnie nałóż krem ​​nawilżający. Nałóż ponownie na krem ​​nawilżający lub makijaż w ciągu dnia, delikatnie wklepując palcami aż do wchłonięcia.",
+     "img": "81.jpg"
+    },
+    {
+     "id": 82,
+     "type": "naturals",
+     "category": "do_twarzy",
+     "name": "Krem pod oczy",
+     "short_description": "Z Dictamelią, komórkami merystematycznymi echinacei i olejem z figi berberysu",
+     "sizing": "30 ml",
+     "full_description": "KREM POD OCZY Z CZYNNIKAMI PRZECIWZMARSZCZKOWYMINaturalny, wielozadaniowy krem ​​pod oczy. Zawarta w nim substancja czynna Helianthus nawilża, uelastycznia i redukuje drobne linie wokół oczu. Ekstrakt z echinacei, organiczna oliwa z oliwek, olej arganowy, masło z awokado, ekstrakt z liści oliwnych i olej konopny łagodzą podrażnienia, wyrównując koloryt skóry wokół oczu i pomagając zwalczać przedwczesne oznaki starzenia.SPOSÓB UŻYCIA: Stosować rano\/wieczorem, niewielką ilość wokół konturu oka. Delikatnie docisnąć palcami aż do wchłonięcia.",
+     "img": "82.jpg"
+    },
+    {
+     "id": 83,
+     "type": "naturals",
+     "category": "do_twarzy",
+     "name": "Matujący krem ​​do twarzy",
+     "short_description": "Z Dictamelią, komórkami merystematycznymi echinacei i olejem z figi berberysu",
+     "sizing": "30 ml",
+     "full_description": "MATOWY KREM DO TWARZYLekki krem ​​o żelowej konsystencji ze składnikami kontrolującymi wydzielanie sebum i nawilżającymi cerę mieszaną i tłustą. Wzbogacony olejkiem z drzewa herbacianego i aktywnym ekstraktem z dzikiej róży, który reguluje wydzielanie sebum, minimalizuje wielkość porów, zapewnia aksamitną konsystencję i matowy wygląd. Kwas hialuronowy aktywuje produkcję kolagenu, nawilża i redukuje drobne zmarszczki, a organiczna oliwa z oliwek chroni przed wolnymi rodnikami i podrażnieniami skóry. SPOSÓB UŻYCIA: Nałożyć na oczyszczoną skórę twarzy, szyi i dekoltu.Może być stosowany również jako baza pod makijaż (podkład), ponieważ zapewnia gładszą skórę i trwałość makijażu.",
+     "img": "83.jpg"
+    },
+    {
+     "id": 84,
+     "type": "naturals",
+     "category": "do_twarzy",
+     "name": "Hialuronowy koktajl do twarzy",
+     "short_description": "Z kwasem hialuronowym LMW, organiczną oliwą z oliwek i ekstraktem z liści oliwnych. Do twarzy, oczu i ust",
+     "sizing": "30 ml",
+     "full_description": "HIALURONOWY BOOSTER +Wzmacniający i wypełniający booster codziennego użytku z kwasem hialuronowym o niskiej i średniej masie cząsteczkowej, zwiększający elastyczność i wzmacniający naturalną barierę skóry. Nawilża i wypełniają drobne zmarszczki wokół twarzy, okolic oczu i ust. Sprawia, że z dnia na dzień Twoja skóra staje się bardziej napięta, wypełniona, nawilżona i promienieje zdrowym blaskiem. SPOSÓB UŻYCIA: Nałożyć 2 krople na skórę po porannym i wieczornym oczyszczeniu. Następnie nałożyć serum lub krem ​​nawilżający. Można jednocześnie stosować z podkładem.",
+     "img": "84.jpg"
+    },
+    {
+     "id": 85,
+     "type": "naturals",
+     "category": "do_twarzy",
+     "name": "Woda micelarna",
+     "short_description": "Z organicznymi ekstraktami z liści oliwnych i rumianku. Dla wszystkich rodzajów skóry – usuwa makijaż i oczyszcza twarz, oczy i usta.",
+     "sizing": "100 ml",
+     "full_description": "OCZYSZCZANIEWODA MICELARNAWoda micelarna o lekkiej konsystencji pozwalająca na łatwe i skuteczne oczyszczanie i demakijaż twarzy i okolic oczu. Wzbogacony organicznymi liśćmi oliwnymi, ekstraktami z rumianku i prowitaminą B5, które zapewniają dodatkową kojącą pielęgnację, ochronę antyoksydacyjną i nawilżenie.SPOSÓB UŻYCIA: Nałożyć na wacik i delikatnie przetrzeć twarz i okolice oczu.",
+     "img": "85.jpg"
+    },
+    {
+     "id": 86,
+     "type": "naturals",
+     "category": "do_twarzy",
+     "name": "Rozświetlająca i zmiękczająca maska ​​do twarzy",
+     "short_description": "Z organiczną oliwą z oliwek, różową glinką i olejkiem Camellia Tsubaki",
+     "sizing": "50 ml",
+     "full_description": "ROZŚWIETLAJĄCA I ZMIĘKCZAJĄCA MASKA DO TWARZYNałożyć na wilgotną skórę i delikatnie masować okrężnymi ruchami. Pozostawić cienką warstwę na skórze przez 5 minut, następnie dokładnie spłukać.",
+     "img": "86.jpg"
+    },
+    {
+     "id": 87,
+     "type": "naturals",
+     "category": "do_wlosow",
+     "name": "Suchy olejek-rytuały 3 w 1",
+     "short_description": "Z organiczną oliwą z oliwek, olejkiem arganowym i olejkiem tsubaki z kamelii",
+     "sizing": "100 ml",
+     "full_description": "SUCHY OLEJEK 3 W 1\/ TWARZ-CIAŁO-WŁOSYAksamitnie delikatny olejek bez szkodliwych silikonów. Posiada bogatą kompozycję naturalnych olejków z kamelii tsubaki, arganowego i organicznej oliwy z oliwek. Otula skórę i włosy jedwabistym woalem. Olej kameliowy tsubaki pobudza syntezę kolagenu w skórze, jednocześnie odżywiając i nawilżając cebulkę włosa. Wyjątkowy egzotyczny zapach inspirowany rytuałami piękna Japonek. SPOSÓB UŻYCIA: Twarz: Nałożyć na twarz i szyję przed nałożeniem kremu nawilżającego. Ciało: Nałóż na wilgotną skórę po prysznicu, aby utrzymać nawilżenie. Włosy: Nakładać na mokre lub suche końce włosów, aby dodać im blasku i miękkości.",
+     "img": "87.jpg"
+    },
+    {
+     "id": 88,
+     "type": "naturals",
+     "category": "do_wlosow",
+     "name": "Łagodny szampon",
+     "short_description": "with Organic olive oil, Argan &amp; Camelia Tsubaki Oil",
+     "sizing": "250 ml",
+     "full_description": "ŁAGODNY SZAMPON - CHRONI I BŁYSZCZYłagodny szapmon nie zawierający SLS, nie posada składników drażniących. Delikatnie myje włosy, pozostawiając skórę głowy nawilżoną. Wzbogacony w olejki z kamelii tsubaki, arganowy i organiczną oliwą z oliwek nawilża, dodaje blasku, odżywiając i wygładzając włosy. Idealny do pielęgnacji włosów farbowanych i do codziennego użytku. Wyjątkowy egzotyczny zapach inspirowany rytuałami piękna Japonek.SPOSÓB UŻYCIA: Niewielką ilość szamponu nanieść na mokre włosy i delikatnie wmasować. Spłukać dużą ilością wody.",
+     "img": "88.jpg"
+    },
+    {
+     "id": 89,
+     "type": "naturals",
+     "category": "do_wlosow",
+     "name": "Maska do włosów RYTUAŁY",
+     "short_description": "Z organiczną oliwą z oliwek, olejkiem arganowym i olejkiem kameliowym Tsubaki",
+     "sizing": "200 ml",
+     "full_description": "MASKA DO WŁOSÓW ODBUDOWUJĄCA I BŁYSZCZĄCADelikatna maska ​​do włosów bogata w odżywcze olejki: kamelia tsubaki, arganowy oraz organiczną oliwa z oliwek, które nawilżają, dodają blasku, odżywiają i zmiękczają włosy. Idealna w pielęgnacji włosów farbowanych. Olejek kamellia tsubaki chroni i utrzymuje kolor, dodając włosom wyjątkowego blasku. Niepowtarzalny egzotyczny zapach inspirowany rytuałami piękna Japonek.SPOSÓB UŻYCIA: Niewielką ilość produktu nanieść na wilgotne końcówki włosów. Spłukać dużą ilością wody",
+     "img": "89.jpg"
+    },
+    {
+     "id": 90,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Krem do rąk i paznokci",
+     "short_description": "Z organiczną oliwą z oliwek, granatem, miodem i imbirem",
+     "sizing": "100 ml",
+     "full_description": "KREM DO RĄK I PAZNOKCIDelikatny, szybko wchłaniający się krem, nie pozostawiający tłustej warstwy, do pielęgnacji dłoni i paznokci. Wzbogacony naturalnym olejem z awokado, olejkiem migdałowym, organiczną oliwą z oliwek i masłem shea, które odżywiają i koją skórę. Wyciągi z granatu i imbiru są silnymi przeciwutleniaczami i zapobiegają przedwczesnemu starzeniu, a miód odżywia skórę. SPOSÓB UŻYCIA: Nałożyć niewielką ilość na dłonie i delikatnie masować, aż do wchłonięcia.",
+     "img": "90.jpg"
+    },
+    {
+     "id": 91,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Krem do stóp",
+     "short_description": "Z organiczną oliwą z oliwek, ruscusem, miętą pieprzową i masłem shea",
+     "sizing": "100 ml",
+     "full_description": "KREM DO STÓP - RELAKSUJĄCY I ORZEŹWIAJĄCYDelikatny, szybko wchłaniający się krem ​​do stóp, nie pozostawiający tłustych śladów. Stanowi idealne remedium dla popękanych pięt i zmęczonej skóry u stóp. Wzbogacony naturalnym olejem migdałowym, olejem z nagietka, organiczną oliwą z oliwek i masłem shea, które nawilżają i koją skórę. Ekstrakt z ruszczyka i naturalny olejek eteryczny z mięty posiadają właściwości tonizujące, działają odświeżająco i relaksująco. SPOSÓB UŻYCIA: Nałożyć odpowiednią ilość na stopy i pięty, delikatnie masując aż do wchłonięcia.",
+     "img": "91.jpg"
+    },
+    {
+     "id": 92,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Lotion cytronelowy",
+     "short_description": "Z organiczną oliwą z oliwek, cytronellą i lawendą",
+     "sizing": "100 ml",
+     "full_description": "NATURALNY BALSAM Z CITRONELLĄDLA DOROSŁYCH I DZIECILekka formuła z cytronellą i naturalnymi olejkami eterycznymi z lawendy, eukaliptusa i geranium. Wzbogacony prowitaminą B5 i organiczną oliwą z oliwek, które działają uspokajająco i wygładzająco. idealny dla całej rodziny. Do użytku wewnątrz i na zewnątrz w okresie letnim. SPOSÓB UŻYCIA: Nanieść odpowiednią ilość produktu na odsłoniętą skórę. Aby uzyskać trwalsze rezultaty, zaleca reaplikować co 3-4 godziny. Odpowiedni dla dzieci powyżej 3 roku życia.",
+     "img": "92.jpg"
+    },
+    {
+     "id": 93,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Żel aloesowy",
+     "short_description": "Z organiczną oliwą z oliwek, organicznym aloesem i pantenolem",
+     "sizing": "100 ml",
+     "full_description": "ALOE VERA - WIELOFUNKCYJNY ŻEL ŁAGODZĄCYDLA DOROSŁYCH I DZIECIOdświeżający żel aloesowy o działaniu zmiękczającym, świetnie sprawdzający się do stosowania po ekspozycji na słońce lub po goleniu. Organiczny aloes, pantenol i organiczna oliwa z oliwek nawilżają, łagodzą i chronią przed stresem oksydacyjnym. Idealny dla podrażnionej skóry. SPOSÓB UŻYCIA: Nałożyć na twarz i ciało, delikatnie masując aż do wchłonięcia.",
+     "img": "93.jpg"
+    },
+    {
+     "id": 94,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Krem do rąk i paznokci",
+     "short_description": "Z organiczną oliwą z oliwek, granatem, miodem i imbirem",
+     "sizing": "50 ml",
+     "full_description": "KREM DO RĄK I PAZNOKCISzybko się wchłania, nie pozostawiając tłustych śladów. SPOSÓB UŻYCIA: Nałożyć niewielką ilość na dłonie i delikatnie wmasować, aż do wchłonięcia.",
+     "img": "94.jpg"
+    },
+    {
+     "id": 95,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Dezodorant GRANAT",
+     "short_description": "Z organiczną oliwą z oliwek i ekstraktem z granatu",
+     "sizing": "50 ml",
+     "full_description": "DEZODORANT DO CIAŁAŁagodny dezodorant, wzbogacony organiczną oliwą z oliwek i ekstraktem z granatu. Z naturalnym faktorem dezodorantu, chroniącym przed przykrym zapachem pod pachami przez wiele godzin. SPOSÓB UŻYCIA: Nałożyć cienką warstwę na czystą skórę. Można stosować po goleniu lub depilacji.",
+     "img": "95.jpg"
+    },
+    {
+     "id": 96,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Dezodorant OLEJ KONOPNY",
+     "short_description": "Z organiczną oliwą z oliwek i olejem konopnym",
+     "sizing": "50 ml",
+     "full_description": "DEZODORANT DO CIAŁAŁagodny dezodorant, wzbogacony w organiczną oliwą z oliwek i olej konopny. Posiada naturalny faktor dezodorantu, zapewniający skuteczną ochronę przed potem przez wiele godzin. SPOSÓB UŻYCIA: Nałożyć cienką warstwę na czystą skórę. Można stosować po goleniu lub depilacji.",
+     "img": "96.jpg"
+    }
+   ]

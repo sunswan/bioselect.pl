@@ -1,0 +1,35 @@
+[
+    {
+     "id": 37,
+     "type": "organic",
+     "category": "dla_mezczyzn",
+     "name": "Krem nawilżający dla mężczyzn",
+     "short_description": "z Dictamelią, wodorostami i wyciągiem z kopru morskiego",
+     "sizing": "50 ml",
+     "full_description": "Lekki, nietłusty krem dla mężczyzn intensywnie nawilżający. Właściwości Dictamelia* łącząc w sobie unikalne właściwości oliwy extra virgin, lebiodki kreteńskiej oraz wody szałwiowej*, zapewniają działanie antyutleniające, jednocześnie nawilżając i kojąc skórę. Kompleks wodorostów zapewnia intensywne i długotrwałe nawilżenie naskórka, a roślina rosnąca w pobliżu Morza Śródziemnego - koper włoski, łagodzi podrażnienia, pozostawiając skórę świeżą i miękką.",
+     "img": "37.jpg",
+     "filter": "do_twarzy"
+    },
+    {
+     "id": 38,
+     "type": "organic",
+     "category": "dla_mezczyzn",
+     "name": "Balsam po goleniu",
+     "short_description": "z Dictamelią, ekstraktem z kaktusa i aloesem",
+     "sizing": "75 ml",
+     "full_description": "Lekki i łatwo wchłanialny balsam po goleniu. Dzięki właściwościom przeciwutleniającym i kojącym organicznej wody szałwiowej*, aloesu*, wyciągu z kaktusa i alantoiny, podrażnienia po goleniu są łagodzone, a skóra staje się gładka i odświeżona. Wyjątkowa formuła z Dictamelii* nawilża skórę, jednocześnie zapewniając łagodne działanie ściągające.",
+     "img": "38.jpg",
+     "filter": "do_twarzy"
+    },
+    {
+     "id": 39,
+     "type": "organic",
+     "category": "dla_mezczyzn",
+     "name": "Łagodna pianka do golenia",
+     "short_description": "z Dictamelią, ekstraktem z kopru morskiego i białkami pszenicy",
+     "sizing": "150 ml",
+     "full_description": "Delikatna pianka do golenia posiadająca specjalnie opracowaną naturalną ekologiczną pompkę do pianki, bez LZO, bez drażniących środków powierzchniowo czynnych. Niezwykle wygodna w użytku, ułatwia sprawne i szybkie golenie, pozostawiając jędrną skórę. Dictamelia* zapewnia niezbędne nawilżenie i łagodne działanie antybakteryjne, a ekstrakt z kopru morskiego, rośliny rosnącej w pobliżu Morza Śródziemnego, łagodzi podrażnienia. Białka pszenicy zwiększają elastyczność skóry, pozostawiając ją jedwabistą w dotyku. Wzbogacona w wodę szałwiową* z właściwościami tonującymi i ochronnymi.",
+     "img": "39.jpg",
+     "filter": "do_twarzy"
+    }
+   ]

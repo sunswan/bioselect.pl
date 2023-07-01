@@ -1,0 +1,157 @@
+[
+    {
+     "id": 11,
+     "type": "organic",
+     "category": "do_wlosow",
+     "name": "Szampon do włosów farbownych",
+     "short_description": "oliwkowy szampon do włosów farbowanychz Dictamelia*, oligopeptydami ze słodkich migdałów* i aloesem*",
+     "sizing": "250 ml",
+     "full_description": "Szampon o naturalnym składzie, idealny dla utrzymania połysku i koloru włosom farbowanym. Zawiera wodę szałwiową* i wyciąg z rozmarynu*, a także cenny sok z aloesu*, który odżywia i nawilża, oraz oligopeptydy ze słodkich migdałów*, które chronią strukturę włosa i przywracają zdrowy blask włosom zniszczonym i po zabiegach.",
+     "img": "11.jpg"
+    },
+    {
+     "id": 12,
+     "type": "organic",
+     "category": "do_wlosow",
+     "name": "Naturalna maska do włosów",
+     "short_description": "naturalna odnawiająca maska do włosówz Dictamelia*, olejem z awokado* i wyciągiem z liści oliwek",
+     "sizing": "200 ml",
+     "full_description": "Naturalna regeneracja dla zniszczonych włosów (suchych lub farbowanych). Dictamelia* , odżywia włosy dzięki zawartości cennych lipidów i olejków eterycznych. Olej z awokado*, bogaty w witaminy i minerały, wzmacnia i odbudowuje naturalną odporność włosów, reguluje równowagę nawilżenia i zwiększa elastyczność, a polifenole zawarte w liściach oliwek* zapewniają maksymalną ochronę przed promieniowaniem UV i stresem oksydacyjnym. Dzięki organicznym olejkom eterycznym z laura** i **szałwi (kreteńskie\/ certyfikowana własna uprawa organiczna) włosy stają się lśniące i zdrowe.",
+     "img": "12.jpg"
+    },
+    {
+     "id": 13,
+     "type": "organic",
+     "category": "do_wlosow",
+     "name": "Szampon odżywczy do włosów",
+     "short_description": "naturalna odżywka do włosówz Dictamelia*, malwą* i aloesem*",
+     "sizing": "200 ml",
+     "full_description": "Naturalna regeneracja dla uszkodzonych włosów (suchych\/ farbowanych). Dictamelia* odżywia i pzostawia włosy odnowione dzięki zawartości cennych lipidów. Wyciąg z malwy*, jednego z najstarszych ziół leczniczych, w swoim składzie bogatego w polisacharydy i flawonoidy, tworzy warstwę ochronną i wygładzającą włosy. Aloes*, organiczny olej laurowy** (kreteński\/ certyfikowana własna uprawa) i woda szałwiowa* odmładzają i nadają połysk.",
+     "img": "13.jpg"
+    },
+    {
+     "id": 14,
+     "type": "organic",
+     "category": "do_wlosow",
+     "name": "Naturalny eliksir do włosów",
+     "short_description": "z Dictamelia*, olejem z awokado* i olejem z baobabu*",
+     "sizing": "150 ml",
+     "full_description": "Eliksir do włosów posiadający w 100% naturalny środkek fotoochronny. Cenny olej z drzewa karanja absorbuje promieniowanie UVB i chroni włosy przed stresem oksydacyjnym. Dictamelia* zwiększa ochronę przeciwutleniaczy i przyczynia się do zachowania sprężystości włosa. Oleje z awokado*, jojoba* i baobabu nawilżają i odżywiają, zapewniając włosom zdrowy wygląd i promienny połysk. Idealny dla suchych\/ zniszczonych włosów.",
+     "img": "14.jpg"
+    },
+    {
+     "id": 15,
+     "type": "organic",
+     "category": "do_wlosow",
+     "name": "Szampon tonizujący",
+     "short_description": "tonizujący szampon do włosówz Dictamelia*, olejem laurowym** i witaminami",
+     "sizing": "200 ml",
+     "full_description": "Szampon nie zawierający szkodliwych SLES, opracowany specjalnie do delikatnego oczyszczania włosów i zapobiegania ich wypadaniu. Dictamelia* i prowitamina B5 odżywiają i regenerują włosy. Dobrze znany ze swych właściwości olej laurowy** (kreteński\/ certyfikowany z własnej uprawy ekologicznej) zapewnia zdrowe, lśniące włosy. Kłuczowy składnik - biotyna, posiada udowodnione działanie wzmacniające cebulki włosa i przeciwdziała ich wypadaniu. Wzbogacony w ekologiczną wodę szałwiową*, łagodzącą skórę głowy.",
+     "img": "15.jpg"
+    },
+    {
+     "id": 16,
+     "type": "organic",
+     "category": "do_wlosow",
+     "name": "Szampon do włosów przetłuszczających się",
+     "short_description": "oliwkowy szampon do włosów przetłuszczających sięz Dictamelia, nagietkiem* i winogronem*",
+     "sizing": "200 ml",
+     "full_description": "Wyjątkowo delikatny szampon do łagodnego mycia włosów. Nie posiada SLES, biodegradowalnych środków powierzchniowo-czynnych podrażniających skórę głowy. Dictamelia * nawilża i oczyszcza skórę głowy, podczas gdy woda szałwiowa* i wyciągi z winogron* i nagietka* równoważą wydzielanie sebum i stanowią ochronę",
+     "img": "16.jpg"
+    },
+    {
+     "id": 17,
+     "type": "organic",
+     "category": "do_wlosow",
+     "name": "Szampon do normalnych włosów",
+     "short_description": "oliwkowy szampon do włosów normalnych\/ suchychz Dictamelia, nagietkiem* i miodem*",
+     "sizing": "200 ml",
+     "full_description": "Łagodny, naturalny szampon do delikatnego mycia włosów. Nie zawiera SLES, biodegradowalne środki powierzchniowo czynne nie podrażniają skóry głowy. Dictamelia* i miód * odżywiają i nawilżają włosy, podczas gdy wyciąg z nagietka* i woda szałwiowa* chronią włosy przed czynnikami zewnętrznymi, zapewniając połysk.",
+     "img": "17.jpg"
+    },
+    {
+     "id": 44,
+     "type": "organic",
+     "category": "dla_dzieci",
+     "name": "Szampon i mleczko dla dzieci pod prysznic",
+     "short_description": "z Dictamelią i Rumiankiem",
+     "sizing": "500 ml",
+     "full_description": "Mleczna formuła ze składnikami o naturalnym pochodzeniu, delikatnie oczyszcająca skórę dziecka, dbając o jej szczególne potrzeby. Dictamelia * , woda rumiankowa* i wyciąg z rumianku* chronią i łagodzą delikatną skórę. Produkt stosowany jako szampon usuwa nadmiar łoju i zanieczyszczenia. Nie powoduje łzawienia, dzięki czemu kąpiel jest przyjemna.",
+     "img": "44.jpg",
+     "filter": "do_wlosow"
+    },
+    {
+     "id": 73,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Mgiełka do włosów i ciała Dreamy Candy",
+     "short_description": "Z olejkiem ze słodkich migdałów i ekstraktem z wanilii",
+     "sizing": "100 ml",
+     "full_description": "WŁOSY I CIAŁOMGIEŁKA ZAPACHOWAIntensywny, słodki i zmysłowy zapach. Wzbogacony olejkiem ze słodkich migdałów i ekstraktem z wanilii, które zatroszczą się o Twoje włosy i skórę.SPOSÓB UŻYCIA: Spryskać ciało lub włosy i powtarzać w ciągu dnia.",
+     "img": "73.jpg",
+     "filter": "do_wlosow"
+    },
+    {
+     "id": 74,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Sekretna mgiełka do włosów i ciała",
+     "short_description": "Z olejkiem eterycznym z drzewa sandałowego i zapachem kakao",
+     "sizing": "100 ml",
+     "full_description": "WŁOSY I CIAŁOMGIEŁKA ZAPACHOWARewelacyjny zapach, który uwodzi zmysły. Wzbogacony olejkiem eterycznym z drzewa sandałowego, który pielęgnuje włosy i skórę.SPOSÓB UŻYCIA: Spryskać ciało lub włosy i powtarzać w ciągu dnia.",
+     "img": "74.jpg",
+     "filter": "do_wlosow"
+    },
+    {
+     "id": 75,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Rozświetlające Rytuały Mgiełki do Włosów i Ciała",
+     "short_description": "Z olejkami arganowym i kameliowym tsubaki",
+     "sizing": "100 ml",
+     "full_description": "WŁOSY I CIAŁOMGIEŁKA ZAPACHOWAUnikalny egzotyczny zapach, zainspirowany rytuałami piękna Japonek. Wzbogacony olejkiem arganowym i kamelią tsubaki, które posiadają cenne właściwości pielęgnujące włosy i skórę.SPOSÓB UŻYCIA: Spryskać ciało lub włosy i powtarzać w ciągu dnia.",
+     "img": "75.jpg",
+     "filter": "do_wlosow"
+    },
+    {
+     "id": 76,
+     "type": "naturals",
+     "category": "do_ciala",
+     "name": "Mgiełka do włosów i ciała Piña Colada",
+     "short_description": "Z olejkiem eterycznym z pomarańczy, monoi de tiare i olejkami kokosowymi",
+     "sizing": "100 ml",
+     "full_description": "WŁOSY I CIAŁOMGIEŁKA ZAPACHOWALuksusowy, kobiecy i ciepły zapach. Wzbogacony olejkiem eterycznym z pomarańczy, monoi de tiare i olejkami kokosowymi, które zatroszczą się o Twoją skórę i włosy.SPOSÓB UŻYCIA: Spryskać ciało lub włosy i powtarzać w ciągu dnia.",
+     "img": "76.jpg",
+     "filter": "do_wlosow"
+    },
+    {
+     "id": 87,
+     "type": "naturals",
+     "category": "do_wlosow",
+     "name": "Suchy olejek-rytuały 3 w 1",
+     "short_description": "Z organiczną oliwą z oliwek, olejkiem arganowym i olejkiem tsubaki z kamelii",
+     "sizing": "100 ml",
+     "full_description": "SUCHY OLEJEK 3 W 1\/ TWARZ-CIAŁO-WŁOSYAksamitnie delikatny olejek bez szkodliwych silikonów. Posiada bogatą kompozycję naturalnych olejków z kamelii tsubaki, arganowego i organicznej oliwy z oliwek. Otula skórę i włosy jedwabistym woalem. Olej kameliowy tsubaki pobudza syntezę kolagenu w skórze, jednocześnie odżywiając i nawilżając cebulkę włosa. Wyjątkowy egzotyczny zapach inspirowany rytuałami piękna Japonek. SPOSÓB UŻYCIA: Twarz: Nałożyć na twarz i szyję przed nałożeniem kremu nawilżającego. Ciało: Nałóż na wilgotną skórę po prysznicu, aby utrzymać nawilżenie. Włosy: Nakładać na mokre lub suche końce włosów, aby dodać im blasku i miękkości.",
+     "img": "87.jpg"
+    },
+    {
+     "id": 88,
+     "type": "naturals",
+     "category": "do_wlosow",
+     "name": "Łagodny szampon",
+     "short_description": "with Organic olive oil, Argan &amp; Camelia Tsubaki Oil",
+     "sizing": "250 ml",
+     "full_description": "ŁAGODNY SZAMPON - CHRONI I BŁYSZCZYłagodny szapmon nie zawierający SLS, nie posada składników drażniących. Delikatnie myje włosy, pozostawiając skórę głowy nawilżoną. Wzbogacony w olejki z kamelii tsubaki, arganowy i organiczną oliwą z oliwek nawilża, dodaje blasku, odżywiając i wygładzając włosy. Idealny do pielęgnacji włosów farbowanych i do codziennego użytku. Wyjątkowy egzotyczny zapach inspirowany rytuałami piękna Japonek.SPOSÓB UŻYCIA: Niewielką ilość szamponu nanieść na mokre włosy i delikatnie wmasować. Spłukać dużą ilością wody.",
+     "img": "88.jpg"
+    },
+    {
+     "id": 89,
+     "type": "naturals",
+     "category": "do_wlosow",
+     "name": "Maska do włosów RYTUAŁY",
+     "short_description": "Z organiczną oliwą z oliwek, olejkiem arganowym i olejkiem kameliowym Tsubaki",
+     "sizing": "200 ml",
+     "full_description": "MASKA DO WŁOSÓW ODBUDOWUJĄCA I BŁYSZCZĄCADelikatna maska ​​do włosów bogata w odżywcze olejki: kamelia tsubaki, arganowy oraz organiczną oliwa z oliwek, które nawilżają, dodają blasku, odżywiają i zmiękczają włosy. Idealna w pielęgnacji włosów farbowanych. Olejek kamellia tsubaki chroni i utrzymuje kolor, dodając włosom wyjątkowego blasku. Niepowtarzalny egzotyczny zapach inspirowany rytuałami piękna Japonek.SPOSÓB UŻYCIA: Niewielką ilość produktu nanieść na wilgotne końcówki włosów. Spłukać dużą ilością wody",
+     "img": "89.jpg"
+    }
+   ]
