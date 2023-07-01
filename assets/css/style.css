@@ -881,7 +881,7 @@ Products Page
   height: 340px;
   width: 100%;
   margin-bottom: 30px;
-  background-image: url(/assets/image/produkty-bg.jpg);
+  background-image: url(../../assets/image/produkty-bg.jpg);
   background-position: bottom;
   background-size: cover;
   background-repeat: no-repeat;
@@ -985,7 +985,7 @@ Products Page
   left: 30px;
   height: 32px;
   width: 18px;
-  background-image: url(/assets/image/prew-white.png);
+  background-image: url(../../assets/image/prew-white.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -998,7 +998,7 @@ Products Page
   right: 30px;
   height: 32px;
   width: 18px;
-  background-image: url(/assets/image/next-white.png);
+  background-image: url(../../assets/image/next-white.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1268,7 +1268,7 @@ Wspolpraca
   height: 340px;
   margin-top: 5.5rem;
   margin-bottom: 1.5rem;
-  background-image: url(/assets/image/wspolpraca-bg.jpg);
+  background-image: url(../../assets/image/wspolpraca-bg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1306,7 +1306,7 @@ Wspolpraca
 }
 
 .wspolpraca-before {
-  background: url(/assets/image/before-card-b2b.png);
+  background: url(../../assets/image/before-card-b2b.png);
   position: absolute;
   width: 600px;
   height: 800px;
@@ -1316,7 +1316,7 @@ Wspolpraca
 }
 
 .wspolpraca-after {
-  background: url(/assets/image/after-card-b2b.png);
+  background: url(../../assets/image/after-card-b2b.png);
   position: absolute;
   width: 600px;
   height: 800px;
@@ -1334,15 +1334,15 @@ Wspolpraca
 }
 
 .wspolpraca-card-img-1 {
-  background-image: url(/assets/image/card-b2b-img-1.png);
+  background-image: url(../../assets/image/card-b2b-img-1.png);
 }
 
 .wspolpraca-card-img-2 {
-  background-image: url(/assets/image/card-b2b-img-2.png);
+  background-image: url(../../assets/image/card-b2b-img-2.png);
 }
 
 .wspolpraca-card-img-3 {
-  background-image: url(/assets/image/card-b2b-img-3.png);
+  background-image: url(../../assets/image/card-b2b-img-3.png);
 }
 
 .wspolpraca-card h4 {
@@ -1719,7 +1719,7 @@ ingredients / Składniki
   margin-top: 5.5rem;
   height: 340px;
   /* margin-bottom: 30px; */
-  background-image: url(/assets/image/ingredients-bg.jpg);
+  background-image: url(../../assets/image/ingredients-bg.jpg);
   background-position: right;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1886,7 +1886,7 @@ Page-head
   left: 0;
   width: 50%;
   height: 100%;
-  background-image: url(/assets/image/page-head-img-1.png);
+  background-image: url(../../assets/image/page-head-img-1.png);
   background-position: left top;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1920,7 +1920,7 @@ Page-head
   width: 256px;
   top: -10px;
   right: -20%;
-  background-image: url(/assets/image/page-head-img-3.webp);
+  background-image: url(../../assets/image/page-head-img-3.webp);
   background-position: top;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2140,7 +2140,7 @@ Block-1
   padding: 1rem 0;
   width: 100%;
   height: 220px;
-  background-image: url(/assets/image/block-1.png);
+  background-image: url(../../assets/image/block-1.png);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2235,31 +2235,31 @@ Certificates
 .certificate-1 {
   width: 162px;
   height: 162px;
-  background-image: url(/assets/image/certificate-1.svg);
+  background-image: url(../../assets/image/certificate-1.svg);
 }
 
 .certificate-2 {
   width: 188px;
   height: 129.25px;
-  background-image: url(/assets/image/certificate-2.svg);
+  background-image: url(../../assets/image/certificate-2.svg);
 }
 
 .certificate-3 {
   width: 186px;
   height: 128px;
-  background-image: url(/assets/image/certificate-3.svg);
+  background-image: url(../../assets/image/certificate-3.svg);
 }
 
 .certificate-4 {
   width: 140px;
   height: 140px;
-  background-image: url(/assets/image/certificate-4.svg);
+  background-image: url(../../assets/image/certificate-4.svg);
 }
 
 .certificate-5 {
   width: 140px;
   height: 140px;
-  background-image: url(/assets/image/certificate-5.svg);
+  background-image: url(../../assets/image/certificate-5.svg);
 }
 
 /* nextArrow / prevArrow  */
@@ -2277,7 +2277,7 @@ Certificates
   height: 32px;
   width: 18px;
   cursor: pointer;
-  background-image: url(/assets/image/prev.png);
+  background-image: url(../../assets/image/prev.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2290,7 +2290,7 @@ Certificates
   height: 32px;
   width: 18px;
   cursor: pointer;
-  background-image: url(/assets/image/next.png);
+  background-image: url(../../assets/image/next.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2398,14 +2398,14 @@ Naturals Organik
 }
 
 .naturals-organik-img-1 {
-  background-image: url(/assets/image/naturals-organik-img-1.jpg);
+  background-image: url(../../assets/image/naturals-organik-img-1.jpg);
   background-position: right center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .naturals-organik-img-2 {
-  background-image: url(/assets/image/naturals-organik-img-2.jpg);
+  background-image: url(../../assets/image/naturals-organik-img-2.jpg);
   background-position: right center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2518,7 +2518,7 @@ Bestseller
   left: -60px;
   height: 32px;
   width: 18px;
-  background-image: url(/assets/image/prev.png);
+  background-image: url(../../assets/image/prev.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2530,50 +2530,50 @@ Bestseller
   right: -60px;
   height: 32px;
   width: 18px;
-  background-image: url(/assets/image/next.png);
+  background-image: url(../../assets/image/next.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .bestseller-1 {
-  background-image: url(/assets/image/bestseller-1.webp);
+  background-image: url(../../assets/image/bestseller-1.webp);
 }
 
 .bestseller-2 {
-  background-image: url(/assets/image/bestseller-2.webp);
+  background-image: url(../../assets/image/bestseller-2.webp);
 }
 
 .bestseller-3 {
-  background-image: url(/assets/image/bestseller-3.webp);
+  background-image: url(../../assets/image/bestseller-3.webp);
 }
 
 .bestseller-4 {
-  background-image: url(/assets/image/bestseller-4.webp);
+  background-image: url(../../assets/image/bestseller-4.webp);
 }
 
 .bestseller-5 {
-  background-image: url(/assets/image/bestseller-5.webp);
+  background-image: url(../../assets/image/bestseller-5.webp);
 }
 
 .bestseller-6 {
-  background-image: url(/assets/image/bestseller-6.webp);
+  background-image: url(../../assets/image/bestseller-6.webp);
 }
 
 .bestseller-7 {
-  background-image: url(/assets/image/bestseller-7.webp);
+  background-image: url(../../assets/image/bestseller-7.webp);
 }
 
 .bestseller-8 {
-  background-image: url(/assets/image/bestseller-8.webp);
+  background-image: url(../../assets/image/bestseller-8.webp);
 }
 
 .bestseller-9 {
-  background-image: url(/assets/image/bestseller-9.webp);
+  background-image: url(../../assets/image/bestseller-9.webp);
 }
 
 .bestseller-10 {
-  background-image: url(/assets/image/bestseller-10.webp);
+  background-image: url(../../assets/image/bestseller-10.webp);
 }
 
 
@@ -2669,7 +2669,7 @@ Main ingredients
 .dictamelia-img {
   width: 360px;
   height: 230px;
-  background-image: url(/assets/image/dictamelia-img.png);
+  background-image: url(../../assets/image/dictamelia-img.png);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -2679,7 +2679,7 @@ Main ingredients
   .diktamnus-img {
     width: 360px;
     height: 230px;
-  background-image: url(/assets/image/diktamnus-img.png);
+  background-image: url(../../assets/image/diktamnus-img.png);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -2689,7 +2689,7 @@ Main ingredients
   .oliwa-img {
     width: 341px;
     height: 286px;
-  background-image: url(/assets/image/oliwa-img.png);
+  background-image: url(../../assets/image/oliwa-img.png);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -2778,7 +2778,7 @@ Bioselect-footer
   margin-top: 5%;
   height: 96px;
   width: 72px;
-  background-image: url(/assets/image/logo_white.svg);
+  background-image: url(../../assets/image/logo_white.svg);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2809,31 +2809,31 @@ Bioselect-footer
 .footer-certificate-img-1 {
   width: 55px;
   height: 55px;
-  background-image: url(/assets/image/footer-certificate-white-1.svg);
+  background-image: url(../../assets/image/footer-certificate-white-1.svg);
 }
 
 .footer-certificate-img-2 {
   width: 62px;
   height: 57px;
-  background-image: url(/assets/image/footer-certificate-white-2.svg);
+  background-image: url(../../assets/image/footer-certificate-white-2.svg);
 }
 
 .footer-certificate-img-3 {
   width: 73px;
   height: 57px;
-  background-image: url(/assets/image/footer-certificate-white-3.svg);
+  background-image: url(../../assets/image/footer-certificate-white-3.svg);
 }
 
 .footer-certificate-img-4 {
   width: 60px;
   height: 60px;
-  background-image: url(/assets/image/footer-certificate-white-4.svg);
+  background-image: url(../../assets/image/footer-certificate-white-4.svg);
 }
 
 .footer-certificate-img-5 {
   width: 46px;
   height: 46px;
-  background-image: url(/assets/image/footer-certificate-white-5.svg);
+  background-image: url(../../assets/image/footer-certificate-white-5.svg);
 }
 
 @media (min-width: 576px) {
@@ -2933,7 +2933,7 @@ O Nas
   padding: 0 1rem;
   height: 340px;
   margin-bottom: 30px;
-  background-image: url(/assets/image/o-nas-bg.jpg);
+  background-image: url(../../assets/image/o-nas-bg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2961,16 +2961,16 @@ O Nas
 }
 
 .o-nas-img-1 {
-  background-image: url(/assets/image/o-nas-img-1.jpg);
+  background-image: url(../../assets/image/o-nas-img-1.jpg);
 }
 
 .o-nas-img-2 {
-  background-image: url(/assets/image/o-nas-img-2.jpg);
+  background-image: url(../../assets/image/o-nas-img-2.jpg);
 }
 
 .o-nas-img-3 {
   height: 250px !important;
-  background-image: url(/assets/image/o-nas-img-3.png);
+  background-image: url(../../assets/image/o-nas-img-3.png);
 }
 
 .o-nas-flex-reverse,
@@ -3046,7 +3046,7 @@ Uroda
   background-position: top;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(/assets/image/uroda-img-1-mob.jpg);
+  background-image: url(../../assets/image/uroda-img-1-mob.jpg);
   z-index: 80;
 }
 
@@ -3069,7 +3069,7 @@ Uroda
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url(/assets/image/uroda-right-block-bg.png);
+  background-image: url(../../assets/image/uroda-right-block-bg.png);
 }
 
 .uroda-komponent-img {
@@ -3079,7 +3079,7 @@ Uroda
   background-position: left;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(/assets/image/uroda-img-2.jpg);
+  background-image: url(../../assets/image/uroda-img-2.jpg);
 }
 
 .uroda-certificate-wrap {
@@ -3098,25 +3098,25 @@ Uroda
 }
 
 .uroda-sertificate-1 {
-  background-image: url(/assets/image/certificate-1.svg);
+  background-image: url(../../assets/image/certificate-1.svg);
 }
 
 .uroda-sertificate-2 {
-  background-image: url(/assets/image/certificate-2.svg);
+  background-image: url(../../assets/image/certificate-2.svg);
 }
 
 .uroda-sertificate-3 {
-  background-image: url(/assets/image/certificate-3.svg);
+  background-image: url(../../assets/image/certificate-3.svg);
 }
 
 .uroda-sertificate-4 {
   height: 87px !important;
-  background-image: url(/assets/image/certificate-4.svg);
+  background-image: url(../../assets/image/certificate-4.svg);
 }
 
 .uroda-sertificate-5 {
   height: 87px !important;
-  background-image: url(/assets/image/certificate-5.svg);
+  background-image: url(../../assets/image/certificate-5.svg);
 }
 
 .uroda-bottom-block {
@@ -3168,7 +3168,7 @@ Uroda
     background-position: top;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(/assets/image/uroda-img-1-full.jpg);
+    background-image: url(../../assets/image/uroda-img-1-full.jpg);
   }
 
   .uroda-right-content ul li {
@@ -3229,7 +3229,7 @@ Subscribe / Contacts
   margin-top: 5.5rem;
   height: 380px;
   margin-bottom: 30px;
-  background-image: url(/assets/image/contacts-bg.jpg);
+  background-image: url(../../assets/image/contacts-bg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
