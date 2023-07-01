@@ -31,7 +31,7 @@ class Products {
                   <div class="modal-content">
                   <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
                     <div class="container">
-                      <a class="navbar-brand" href="https://bioselect.com.pl/"><img src="../assets/image/logo-nav.svg" alt="Bioselect" /></a>
+                      <a class="navbar-brand" href="https://sunswan.github.io/bioselect.pl/"><img src="../assets/image/logo-nav.svg" alt="Bioselect" /></a>
                       <div class="navbar-toggler-wrapper">
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                           data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
