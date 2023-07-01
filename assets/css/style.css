@@ -989,6 +989,7 @@ Products Page
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  cursor: pointer;
 }
 
 .filter-carousel-next {
@@ -1002,6 +1003,7 @@ Products Page
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  cursor: pointer;
 }
 
 .filter-product-carousel .item .circle {
